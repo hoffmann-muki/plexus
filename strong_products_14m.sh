@@ -9,7 +9,7 @@
 
 module load nccl/2.24.3
 module load cudatoolkit/12.4
-source /pscratch/sd/c/cunyang/gnn/plexus_env/bin/activate 
+source /pscratch/sd/h/hmuki/plexus-env/bin/activate 
 
 NNODES=$SLURM_JOB_NUM_NODES
 GPUS=$(( NNODES * 4 ))
@@ -42,7 +42,7 @@ ratio=${5:-0.05}
 
 TRAIN_FILE=examples/train_mini.py
 PARTITIONS_PER_DIM=32
-PARTITIONED_DATA_DIR=/pscratch/sd/c/cunyang/gnn/plexus/dataset/amazon_14m/amazon_part${PARTITIONS_PER_DIM}
+PARTITIONED_DATA_DIR=/global/cfs/cdirs/m5083/gnn_dataset/amazon_14m/amazon_part${PARTITIONS_PER_DIM}
 
 export CXX=CC 
 export CC=cc
