@@ -84,9 +84,6 @@ SCRIPT="$TRAIN_FILE \
     --minibatch_unbiased \
     --minibatch_compact \
     --overlap_samp \
-    --overlap_fwd_comm \
-    --overlap_bwd_comm \
-    --overlap_linear_bwd \
     --fuse_norm_activation \
     --vectorize_dp_grad \
     --data_dir $PARTITIONED_DATA_DIR \
