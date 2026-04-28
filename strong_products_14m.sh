@@ -83,7 +83,6 @@ SCRIPT="$TRAIN_FILE \
     --minibatch_ratio ${ratio} \
     --minibatch_unbiased \
     --minibatch_compact \
-    --overlap_samp \
     --fuse_norm_activation \
     --vectorize_dp_grad \
     --data_dir $PARTITIONED_DATA_DIR \
