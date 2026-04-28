@@ -69,6 +69,7 @@ if [ "${use_bf16_gemm}" -eq 1 ]; then
 fi
 
 chmod +x ./get_rank.sh
+mkdir -p strong/products_14m_sampopt
 
 SCRIPT="$TRAIN_FILE \
     --G_intra_r ${G_INTRA_R} \
