@@ -1,1 +1,759 @@
-srun: error: Unable to create step for job 52340521: Job/step already completing or completed
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+[info] RMSNorm + ReLU + Dropout fused and compiled with torch.compile
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+steps_per_epoch:  21
+Epoch: 000, Train Loss: 3.4528
+Epoch: 001, Train Loss: 3.3638
+Epoch: 002, Train Loss: 3.3045
+Epoch: 003, Train Loss: 3.2821
+Epoch: 004, Train Loss: 3.2470
+Epoch: 005, Train Loss: 3.2135
+Epoch: 006, Train Loss: 3.1899
+Epoch: 007, Train Loss: 3.1779
+Epoch: 008, Train Loss: 3.1663
+rank 3 Peak GPU memory: 19.44 GB
+rank 2 Peak GPU memory: 19.44 GB
+rank 1 Peak GPU memory: 19.44 GB
+rank 7 Peak GPU memory: 19.44 GB
+rank 4 Peak GPU memory: 19.44 GB
+rank 5 Peak GPU memory: 19.44 GB
+rank 6 Peak GPU memory: 19.44 GB
+rank 8 Peak GPU memory: 19.44 GB
+rank 11 Peak GPU memory: 19.44 GB
+rank 10 Peak GPU memory: 19.44 GB
+rank 9 Peak GPU memory: 19.44 GB
+rank 12 Peak GPU memory: 19.44 GB
+rank 14 Peak GPU memory: 19.44 GB
+rank 15 Peak GPU memory: 19.44 GB
+rank 13 Peak GPU memory: 19.44 GB
+|--[95m 'drop | Max Time: 0.102 ms | Avg Time: 0.096 ms | Load Imbalance: 1.070' [0m
+
+|--[95m 'epoch 0 | Max Time: 8615.399 ms | Avg Time: 8615.051 ms | Load Imbalance: 1.000' [0m
+	|--[92m 'minibatch prep | Max Time: 468.090 ms | Avg Time: 447.186 ms | Load Imbalance: 1.047' [0m
+		|--[96m 'sample nodes | Max Time: 103.964 ms | Avg Time: 92.389 ms | Load Imbalance: 1.125' [0m
+		|--[96m 'compact indices | Max Time: 22.929 ms | Avg Time: 22.157 ms | Load Imbalance: 1.035' [0m
+		|--[96m 'compact adj shards | Max Time: 316.388 ms | Avg Time: 307.793 ms | Load Imbalance: 1.028' [0m
+			|--[91m 'compact layout prep | Max Time: 82.052 ms | Avg Time: 80.254 ms | Load Imbalance: 1.022' [0m
+			|--[91m 'compact csr: indices | Max Time: 1.459 ms | Avg Time: 1.389 ms | Load Imbalance: 1.051' [0m
+			|--[91m 'compact csr: row ptrs | Max Time: 19.835 ms | Avg Time: 19.211 ms | Load Imbalance: 1.032' [0m
+			|--[91m 'compact csr: nnz index | Max Time: 44.517 ms | Avg Time: 40.674 ms | Load Imbalance: 1.094' [0m
+			|--[91m 'compact csr: select nnz | Max Time: 12.911 ms | Avg Time: 12.556 ms | Load Imbalance: 1.028' [0m
+			|--[91m 'compact csr: col map | Max Time: 37.194 ms | Avg Time: 36.637 ms | Load Imbalance: 1.015' [0m
+			|--[91m 'compact csr: edge scale | Max Time: 20.782 ms | Avg Time: 20.295 ms | Load Imbalance: 1.024' [0m
+			|--[91m 'compact csr: crow | Max Time: 40.539 ms | Avg Time: 32.610 ms | Load Imbalance: 1.243' [0m
+			|--[91m 'compact csr: adjt direct | Max Time: 37.104 ms | Avg Time: 31.816 ms | Load Imbalance: 1.166' [0m
+		|--[96m 'compact feature slice | Max Time: 16.445 ms | Avg Time: 13.866 ms | Load Imbalance: 1.186' [0m
+		|--[96m 'compact label slice | Max Time: 7.939 ms | Avg Time: 7.637 ms | Load Imbalance: 1.040' [0m
+	|--[92m 'train step | Max Time: 8175.942 ms | Avg Time: 8166.818 ms | Load Imbalance: 1.001' [0m
+		|--[96m 'input_linear | Max Time: 54.576 ms | Avg Time: 49.916 ms | Load Imbalance: 1.093' [0m
+			|--[91m 'input_linear X * W | Max Time: 52.758 ms | Avg Time: 48.106 ms | Load Imbalance: 1.097' [0m
+			|--[91m 'all-reduce | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.202' [0m
+			|--[91m 'OUT + BIAS | Max Time: 1.581 ms | Avg Time: 1.448 ms | Load Imbalance: 1.091' [0m
+		|--[96m 'gcn conv fwd | Max Time: 1913.333 ms | Avg Time: 1745.343 ms | Load Imbalance: 1.096' [0m
+			|--[91m 'AGG = A * H | Max Time: 54.733 ms | Avg Time: 50.353 ms | Load Imbalance: 1.087' [0m
+			|--[91m 'allreduce H | Max Time: 508.488 ms | Avg Time: 467.495 ms | Load Imbalance: 1.088' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.340 ms | Avg Time: 19.309 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 465.212 ms | Avg Time: 424.005 ms | Load Imbalance: 1.097' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.946 ms | Avg Time: 23.533 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'Allgather W | Max Time: 490.012 ms | Avg Time: 310.194 ms | Load Imbalance: 1.580' [0m
+				|--[95m 'gather | Max Time: 489.734 ms | Avg Time: 309.914 ms | Load Imbalance: 1.580' [0m
+			|--[91m 'OUT = AGG * W | Max Time: 40.922 ms | Avg Time: 36.276 ms | Load Imbalance: 1.128' [0m
+			|--[91m 'allreduce Q | Max Time: 897.922 ms | Avg Time: 879.996 ms | Load Imbalance: 1.020' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.432 ms | Avg Time: 19.386 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 854.735 ms | Avg Time: 836.568 ms | Load Imbalance: 1.022' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.818 ms | Avg Time: 23.439 ms | Load Imbalance: 1.144' [0m
+		|--[96m 'activation | Max Time: 4603.688 ms | Avg Time: 4320.017 ms | Load Imbalance: 1.066' [0m
+			|--[91m 'all-reduce | Max Time: 757.631 ms | Avg Time: 740.990 ms | Load Imbalance: 1.022' [0m
+		|--[96m 'output_linear | Max Time: 76.771 ms | Avg Time: 70.656 ms | Load Imbalance: 1.087' [0m
+			|--[91m 'output_linear X * W | Max Time: 2.753 ms | Avg Time: 2.555 ms | Load Imbalance: 1.078' [0m
+			|--[91m 'all-reduce | Max Time: 70.985 ms | Avg Time: 64.818 ms | Load Imbalance: 1.095' [0m
+			|--[91m 'OUT + BIAS | Max Time: 3.145 ms | Avg Time: 3.010 ms | Load Imbalance: 1.045' [0m
+		|--[96m 'cross entropy fwd | Max Time: 125.479 ms | Avg Time: 119.300 ms | Load Imbalance: 1.052' [0m
+		|--[96m 'cross entropy bwd | Max Time: 11.896 ms | Avg Time: 9.561 ms | Load Imbalance: 1.244' [0m
+		|--[96m 'linear_3d_bwd | Max Time: 34.170 ms | Avg Time: 31.080 ms | Load Imbalance: 1.099' [0m
+			|--[91m 'output_linear GRAD_X | Max Time: 7.752 ms | Avg Time: 4.465 ms | Load Imbalance: 1.736' [0m
+			|--[91m 'all-reduce | Max Time: 0.317 ms | Avg Time: 0.269 ms | Load Imbalance: 1.178' [0m
+			|--[91m 'output_linear GRAD_W | Max Time: 13.604 ms | Avg Time: 13.316 ms | Load Imbalance: 1.022' [0m
+			|--[91m 'input_linear GRAD_W | Max Time: 10.372 ms | Avg Time: 8.821 ms | Load Imbalance: 1.176' [0m
+		|--[96m 'gcn conv bwd | Max Time: 709.247 ms | Avg Time: 701.140 ms | Load Imbalance: 1.012' [0m
+			|--[91m 'GRAD_AGG = GRAD_OUT * W.T | Max Time: 42.903 ms | Avg Time: 37.361 ms | Load Imbalance: 1.148' [0m
+			|--[91m 'allreduce lowp comm dtype | Max Time: 19.268 ms | Avg Time: 19.240 ms | Load Imbalance: 1.001' [0m
+			|--[91m 'allreduce lowp | Max Time: 260.446 ms | Avg Time: 250.469 ms | Load Imbalance: 1.040' [0m
+			|--[91m 'allreduce copy back | Max Time: 26.841 ms | Avg Time: 23.449 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'GRAD_W = AGG.T * GRAD_OUT | Max Time: 45.487 ms | Avg Time: 37.236 ms | Load Imbalance: 1.222' [0m
+			|--[91m 'ReduceScatter grad_weight | Max Time: 6.812 ms | Avg Time: 6.344 ms | Load Imbalance: 1.074' [0m
+				|--[95m 'reduce-scatter | Max Time: 6.617 ms | Avg Time: 6.144 ms | Load Imbalance: 1.077' [0m
+					|--[92m 'reduce-scatter-dist | Max Time: 6.519 ms | Avg Time: 6.044 ms | Load Imbalance: 1.079' [0m
+			|--[91m 'GRAD_H = A.T * GRAD_AGG | Max Time: 40.169 ms | Avg Time: 37.346 ms | Load Imbalance: 1.076' [0m
+			|--[91m 'allreduce grad_x | Max Time: 281.415 ms | Avg Time: 275.982 ms | Load Imbalance: 1.020' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.301 ms | Avg Time: 19.271 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 235.561 ms | Avg Time: 232.659 ms | Load Imbalance: 1.012' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.830 ms | Avg Time: 23.448 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'gather | Max Time: 15.742 ms | Avg Time: 12.304 ms | Load Imbalance: 1.279' [0m
+		|--[96m 'sync_norm_gradients | Max Time: 100.484 ms | Avg Time: 75.199 ms | Load Imbalance: 1.336' [0m
+		|--[96m 'sync_data_parallel_gradients | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.197' [0m
+
+|--[95m 'epoch 1 | Max Time: 2064.087 ms | Avg Time: 2064.059 ms | Load Imbalance: 1.000' [0m
+	|--[92m 'minibatch prep | Max Time: 346.640 ms | Avg Time: 321.280 ms | Load Imbalance: 1.079' [0m
+		|--[96m 'sample nodes | Max Time: 80.773 ms | Avg Time: 73.801 ms | Load Imbalance: 1.094' [0m
+		|--[96m 'compact indices | Max Time: 12.986 ms | Avg Time: 12.570 ms | Load Imbalance: 1.033' [0m
+		|--[96m 'compact adj shards | Max Time: 233.716 ms | Avg Time: 217.971 ms | Load Imbalance: 1.072' [0m
+			|--[91m 'compact layout prep | Max Time: 37.835 ms | Avg Time: 35.469 ms | Load Imbalance: 1.067' [0m
+			|--[91m 'compact csr: indices | Max Time: 1.371 ms | Avg Time: 1.308 ms | Load Imbalance: 1.048' [0m
+			|--[91m 'compact csr: row ptrs | Max Time: 10.872 ms | Avg Time: 10.187 ms | Load Imbalance: 1.067' [0m
+			|--[91m 'compact csr: nnz index | Max Time: 40.752 ms | Avg Time: 36.590 ms | Load Imbalance: 1.114' [0m
+			|--[91m 'compact csr: select nnz | Max Time: 12.875 ms | Avg Time: 12.537 ms | Load Imbalance: 1.027' [0m
+			|--[91m 'compact csr: col map | Max Time: 37.189 ms | Avg Time: 36.612 ms | Load Imbalance: 1.016' [0m
+			|--[91m 'compact csr: edge scale | Max Time: 15.214 ms | Avg Time: 14.118 ms | Load Imbalance: 1.078' [0m
+			|--[91m 'compact csr: crow | Max Time: 12.493 ms | Avg Time: 11.769 ms | Load Imbalance: 1.062' [0m
+			|--[91m 'compact csr: adjt direct | Max Time: 33.108 ms | Avg Time: 29.119 ms | Load Imbalance: 1.137' [0m
+		|--[96m 'compact feature slice | Max Time: 14.944 ms | Avg Time: 12.852 ms | Load Imbalance: 1.163' [0m
+		|--[96m 'compact label slice | Max Time: 1.178 ms | Avg Time: 1.141 ms | Load Imbalance: 1.032' [0m
+	|--[92m 'train step | Max Time: 1746.206 ms | Avg Time: 1741.807 ms | Load Imbalance: 1.003' [0m
+		|--[96m 'input_linear | Max Time: 12.156 ms | Avg Time: 10.126 ms | Load Imbalance: 1.201' [0m
+			|--[91m 'input_linear X * W | Max Time: 10.278 ms | Avg Time: 8.432 ms | Load Imbalance: 1.219' [0m
+			|--[91m 'all-reduce | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.207' [0m
+			|--[91m 'OUT + BIAS | Max Time: 1.577 ms | Avg Time: 1.444 ms | Load Imbalance: 1.092' [0m
+		|--[96m 'gcn conv fwd | Max Time: 673.441 ms | Avg Time: 667.058 ms | Load Imbalance: 1.010' [0m
+			|--[91m 'AGG = A * H | Max Time: 40.053 ms | Avg Time: 37.434 ms | Load Imbalance: 1.070' [0m
+			|--[91m 'allreduce H | Max Time: 276.094 ms | Avg Time: 273.636 ms | Load Imbalance: 1.009' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.332 ms | Avg Time: 19.304 ms | Load Imbalance: 1.001' [0m
+				|--[95m 'allreduce lowp | Max Time: 232.970 ms | Avg Time: 230.282 ms | Load Imbalance: 1.012' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.849 ms | Avg Time: 23.446 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'Allgather W | Max Time: 19.111 ms | Avg Time: 15.422 ms | Load Imbalance: 1.239' [0m
+				|--[95m 'gather | Max Time: 18.916 ms | Avg Time: 15.222 ms | Load Imbalance: 1.243' [0m
+			|--[91m 'OUT = AGG * W | Max Time: 40.369 ms | Avg Time: 35.557 ms | Load Imbalance: 1.135' [0m
+			|--[91m 'allreduce Q | Max Time: 310.869 ms | Avg Time: 304.107 ms | Load Imbalance: 1.022' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.427 ms | Avg Time: 19.389 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 267.690 ms | Avg Time: 260.678 ms | Load Imbalance: 1.027' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.820 ms | Avg Time: 23.436 ms | Load Imbalance: 1.144' [0m
+		|--[96m 'activation | Max Time: 69.588 ms | Avg Time: 67.460 ms | Load Imbalance: 1.032' [0m
+			|--[91m 'all-reduce | Max Time: 22.935 ms | Avg Time: 20.221 ms | Load Imbalance: 1.134' [0m
+		|--[96m 'output_linear | Max Time: 65.192 ms | Avg Time: 62.696 ms | Load Imbalance: 1.040' [0m
+			|--[91m 'output_linear X * W | Max Time: 2.647 ms | Avg Time: 2.451 ms | Load Imbalance: 1.080' [0m
+			|--[91m 'all-reduce | Max Time: 59.567 ms | Avg Time: 57.031 ms | Load Imbalance: 1.044' [0m
+			|--[91m 'OUT + BIAS | Max Time: 3.144 ms | Avg Time: 3.010 ms | Load Imbalance: 1.044' [0m
+		|--[96m 'cross entropy fwd | Max Time: 60.486 ms | Avg Time: 54.061 ms | Load Imbalance: 1.119' [0m
+		|--[96m 'cross entropy bwd | Max Time: 9.175 ms | Avg Time: 8.764 ms | Load Imbalance: 1.047' [0m
+		|--[96m 'linear_3d_bwd | Max Time: 22.255 ms | Avg Time: 19.347 ms | Load Imbalance: 1.150' [0m
+			|--[91m 'output_linear GRAD_X | Max Time: 3.502 ms | Avg Time: 3.084 ms | Load Imbalance: 1.135' [0m
+			|--[91m 'all-reduce | Max Time: 0.300 ms | Avg Time: 0.250 ms | Load Imbalance: 1.201' [0m
+			|--[91m 'output_linear GRAD_W | Max Time: 3.528 ms | Avg Time: 3.155 ms | Load Imbalance: 1.118' [0m
+			|--[91m 'input_linear GRAD_W | Max Time: 10.373 ms | Avg Time: 8.817 ms | Load Imbalance: 1.176' [0m
+		|--[96m 'gcn conv bwd | Max Time: 690.648 ms | Avg Time: 687.875 ms | Load Imbalance: 1.004' [0m
+			|--[91m 'GRAD_AGG = GRAD_OUT * W.T | Max Time: 40.723 ms | Avg Time: 35.605 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'allreduce lowp comm dtype | Max Time: 19.303 ms | Avg Time: 19.242 ms | Load Imbalance: 1.003' [0m
+			|--[91m 'allreduce lowp | Max Time: 238.600 ms | Avg Time: 237.323 ms | Load Imbalance: 1.005' [0m
+			|--[91m 'allreduce copy back | Max Time: 26.835 ms | Avg Time: 23.449 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'GRAD_W = AGG.T * GRAD_OUT | Max Time: 45.423 ms | Avg Time: 37.156 ms | Load Imbalance: 1.222' [0m
+			|--[91m 'ReduceScatter grad_weight | Max Time: 7.742 ms | Avg Time: 7.272 ms | Load Imbalance: 1.065' [0m
+				|--[95m 'reduce-scatter | Max Time: 7.547 ms | Avg Time: 7.072 ms | Load Imbalance: 1.067' [0m
+					|--[92m 'reduce-scatter-dist | Max Time: 7.450 ms | Avg Time: 6.972 ms | Load Imbalance: 1.069' [0m
+			|--[91m 'GRAD_H = A.T * GRAD_AGG | Max Time: 40.241 ms | Avg Time: 37.333 ms | Load Imbalance: 1.078' [0m
+			|--[91m 'allreduce grad_x | Max Time: 282.229 ms | Avg Time: 276.941 ms | Load Imbalance: 1.019' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.306 ms | Avg Time: 19.271 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 236.573 ms | Avg Time: 233.619 ms | Load Imbalance: 1.013' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.835 ms | Avg Time: 23.448 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'gather | Max Time: 15.728 ms | Avg Time: 12.147 ms | Load Imbalance: 1.295' [0m
+		|--[96m 'sync_norm_gradients | Max Time: 20.381 ms | Avg Time: 16.182 ms | Load Imbalance: 1.259' [0m
+		|--[96m 'sync_data_parallel_gradients | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.194' [0m
+
+|--[95m 'epoch 2 | Max Time: 2070.882 ms | Avg Time: 2070.862 ms | Load Imbalance: 1.000' [0m
+	|--[92m 'minibatch prep | Max Time: 346.001 ms | Avg Time: 320.422 ms | Load Imbalance: 1.080' [0m
+		|--[96m 'sample nodes | Max Time: 80.741 ms | Avg Time: 73.794 ms | Load Imbalance: 1.094' [0m
+		|--[96m 'compact indices | Max Time: 12.968 ms | Avg Time: 12.500 ms | Load Imbalance: 1.037' [0m
+		|--[96m 'compact adj shards | Max Time: 233.153 ms | Avg Time: 217.215 ms | Load Imbalance: 1.073' [0m
+			|--[91m 'compact layout prep | Max Time: 37.374 ms | Avg Time: 35.176 ms | Load Imbalance: 1.062' [0m
+			|--[91m 'compact csr: indices | Max Time: 1.355 ms | Avg Time: 1.287 ms | Load Imbalance: 1.053' [0m
+			|--[91m 'compact csr: row ptrs | Max Time: 10.825 ms | Avg Time: 10.141 ms | Load Imbalance: 1.067' [0m
+			|--[91m 'compact csr: nnz index | Max Time: 40.776 ms | Avg Time: 36.579 ms | Load Imbalance: 1.115' [0m
+			|--[91m 'compact csr: select nnz | Max Time: 12.905 ms | Avg Time: 12.529 ms | Load Imbalance: 1.030' [0m
+			|--[91m 'compact csr: col map | Max Time: 37.202 ms | Avg Time: 36.651 ms | Load Imbalance: 1.015' [0m
+			|--[91m 'compact csr: edge scale | Max Time: 15.850 ms | Avg Time: 14.105 ms | Load Imbalance: 1.124' [0m
+			|--[91m 'compact csr: crow | Max Time: 12.404 ms | Avg Time: 11.719 ms | Load Imbalance: 1.058' [0m
+			|--[91m 'compact csr: adjt direct | Max Time: 33.018 ms | Avg Time: 28.988 ms | Load Imbalance: 1.139' [0m
+		|--[96m 'compact feature slice | Max Time: 14.929 ms | Avg Time: 12.854 ms | Load Imbalance: 1.161' [0m
+		|--[96m 'compact label slice | Max Time: 1.179 ms | Avg Time: 1.140 ms | Load Imbalance: 1.035' [0m
+	|--[92m 'train step | Max Time: 1753.431 ms | Avg Time: 1749.475 ms | Load Imbalance: 1.002' [0m
+		|--[96m 'input_linear | Max Time: 12.152 ms | Avg Time: 10.121 ms | Load Imbalance: 1.201' [0m
+			|--[91m 'input_linear X * W | Max Time: 10.275 ms | Avg Time: 8.427 ms | Load Imbalance: 1.219' [0m
+			|--[91m 'all-reduce | Max Time: 0.061 ms | Avg Time: 0.050 ms | Load Imbalance: 1.216' [0m
+			|--[91m 'OUT + BIAS | Max Time: 1.576 ms | Avg Time: 1.445 ms | Load Imbalance: 1.091' [0m
+		|--[96m 'gcn conv fwd | Max Time: 685.232 ms | Avg Time: 679.345 ms | Load Imbalance: 1.009' [0m
+			|--[91m 'AGG = A * H | Max Time: 40.140 ms | Avg Time: 37.434 ms | Load Imbalance: 1.072' [0m
+			|--[91m 'allreduce H | Max Time: 280.003 ms | Avg Time: 277.168 ms | Load Imbalance: 1.010' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.337 ms | Avg Time: 19.304 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 236.888 ms | Avg Time: 233.814 ms | Load Imbalance: 1.013' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.848 ms | Avg Time: 23.447 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'Allgather W | Max Time: 19.610 ms | Avg Time: 15.546 ms | Load Imbalance: 1.261' [0m
+				|--[95m 'gather | Max Time: 19.416 ms | Avg Time: 15.346 ms | Load Imbalance: 1.265' [0m
+			|--[91m 'OUT = AGG * W | Max Time: 40.306 ms | Avg Time: 35.559 ms | Load Imbalance: 1.133' [0m
+			|--[91m 'allreduce Q | Max Time: 318.819 ms | Avg Time: 312.733 ms | Load Imbalance: 1.019' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.433 ms | Avg Time: 19.390 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 275.622 ms | Avg Time: 269.301 ms | Load Imbalance: 1.023' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.818 ms | Avg Time: 23.438 ms | Load Imbalance: 1.144' [0m
+		|--[96m 'activation | Max Time: 70.431 ms | Avg Time: 67.983 ms | Load Imbalance: 1.036' [0m
+			|--[91m 'all-reduce | Max Time: 23.780 ms | Avg Time: 20.747 ms | Load Imbalance: 1.146' [0m
+		|--[96m 'output_linear | Max Time: 65.517 ms | Avg Time: 62.778 ms | Load Imbalance: 1.044' [0m
+			|--[91m 'output_linear X * W | Max Time: 2.647 ms | Avg Time: 2.452 ms | Load Imbalance: 1.079' [0m
+			|--[91m 'all-reduce | Max Time: 59.884 ms | Avg Time: 57.112 ms | Load Imbalance: 1.049' [0m
+			|--[91m 'OUT + BIAS | Max Time: 3.142 ms | Avg Time: 3.010 ms | Load Imbalance: 1.044' [0m
+		|--[96m 'cross entropy fwd | Max Time: 60.506 ms | Avg Time: 54.098 ms | Load Imbalance: 1.118' [0m
+		|--[96m 'cross entropy bwd | Max Time: 9.179 ms | Avg Time: 8.814 ms | Load Imbalance: 1.042' [0m
+		|--[96m 'linear_3d_bwd | Max Time: 22.262 ms | Avg Time: 19.349 ms | Load Imbalance: 1.151' [0m
+			|--[91m 'output_linear GRAD_X | Max Time: 3.500 ms | Avg Time: 3.085 ms | Load Imbalance: 1.134' [0m
+			|--[91m 'all-reduce | Max Time: 0.300 ms | Avg Time: 0.250 ms | Load Imbalance: 1.202' [0m
+			|--[91m 'output_linear GRAD_W | Max Time: 3.534 ms | Avg Time: 3.154 ms | Load Imbalance: 1.121' [0m
+			|--[91m 'input_linear GRAD_W | Max Time: 10.375 ms | Avg Time: 8.817 ms | Load Imbalance: 1.177' [0m
+		|--[96m 'gcn conv bwd | Max Time: 685.570 ms | Avg Time: 682.448 ms | Load Imbalance: 1.005' [0m
+			|--[91m 'GRAD_AGG = GRAD_OUT * W.T | Max Time: 40.658 ms | Avg Time: 35.596 ms | Load Imbalance: 1.142' [0m
+			|--[91m 'allreduce lowp comm dtype | Max Time: 19.281 ms | Avg Time: 19.228 ms | Load Imbalance: 1.003' [0m
+			|--[91m 'allreduce lowp | Max Time: 238.665 ms | Avg Time: 237.530 ms | Load Imbalance: 1.005' [0m
+			|--[91m 'allreduce copy back | Max Time: 26.838 ms | Avg Time: 23.449 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'GRAD_W = AGG.T * GRAD_OUT | Max Time: 45.400 ms | Avg Time: 37.150 ms | Load Imbalance: 1.222' [0m
+			|--[91m 'ReduceScatter grad_weight | Max Time: 6.742 ms | Avg Time: 6.282 ms | Load Imbalance: 1.073' [0m
+				|--[95m 'reduce-scatter | Max Time: 6.548 ms | Avg Time: 6.083 ms | Load Imbalance: 1.076' [0m
+					|--[92m 'reduce-scatter-dist | Max Time: 6.449 ms | Avg Time: 5.983 ms | Load Imbalance: 1.078' [0m
+			|--[91m 'GRAD_H = A.T * GRAD_AGG | Max Time: 40.175 ms | Avg Time: 37.338 ms | Load Imbalance: 1.076' [0m
+			|--[91m 'allreduce grad_x | Max Time: 277.495 ms | Avg Time: 272.019 ms | Load Imbalance: 1.020' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.312 ms | Avg Time: 19.272 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 231.248 ms | Avg Time: 228.694 ms | Load Imbalance: 1.011' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.834 ms | Avg Time: 23.450 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'gather | Max Time: 16.245 ms | Avg Time: 12.452 ms | Load Imbalance: 1.305' [0m
+		|--[96m 'sync_norm_gradients | Max Time: 20.011 ms | Avg Time: 16.236 ms | Load Imbalance: 1.233' [0m
+		|--[96m 'sync_data_parallel_gradients | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.204' [0m
+
+|--[95m 'epoch 3 | Max Time: 2065.655 ms | Avg Time: 2065.531 ms | Load Imbalance: 1.000' [0m
+	|--[92m 'minibatch prep | Max Time: 345.163 ms | Avg Time: 320.236 ms | Load Imbalance: 1.078' [0m
+		|--[96m 'sample nodes | Max Time: 80.781 ms | Avg Time: 73.804 ms | Load Imbalance: 1.095' [0m
+		|--[96m 'compact indices | Max Time: 13.560 ms | Avg Time: 12.533 ms | Load Imbalance: 1.082' [0m
+		|--[96m 'compact adj shards | Max Time: 232.360 ms | Avg Time: 216.991 ms | Load Imbalance: 1.071' [0m
+			|--[91m 'compact layout prep | Max Time: 37.388 ms | Avg Time: 35.358 ms | Load Imbalance: 1.057' [0m
+			|--[91m 'compact csr: indices | Max Time: 1.349 ms | Avg Time: 1.300 ms | Load Imbalance: 1.038' [0m
+			|--[91m 'compact csr: row ptrs | Max Time: 10.861 ms | Avg Time: 10.155 ms | Load Imbalance: 1.070' [0m
+			|--[91m 'compact csr: nnz index | Max Time: 40.686 ms | Avg Time: 36.513 ms | Load Imbalance: 1.114' [0m
+			|--[91m 'compact csr: select nnz | Max Time: 12.864 ms | Avg Time: 12.496 ms | Load Imbalance: 1.029' [0m
+			|--[91m 'compact csr: col map | Max Time: 37.100 ms | Avg Time: 36.564 ms | Load Imbalance: 1.015' [0m
+			|--[91m 'compact csr: edge scale | Max Time: 15.030 ms | Avg Time: 13.981 ms | Load Imbalance: 1.075' [0m
+			|--[91m 'compact csr: crow | Max Time: 12.288 ms | Avg Time: 11.674 ms | Load Imbalance: 1.053' [0m
+			|--[91m 'compact csr: adjt direct | Max Time: 32.806 ms | Avg Time: 28.908 ms | Load Imbalance: 1.135' [0m
+		|--[96m 'compact feature slice | Max Time: 14.936 ms | Avg Time: 12.845 ms | Load Imbalance: 1.163' [0m
+		|--[96m 'compact label slice | Max Time: 1.177 ms | Avg Time: 1.142 ms | Load Imbalance: 1.031' [0m
+	|--[92m 'train step | Max Time: 1748.454 ms | Avg Time: 1744.316 ms | Load Imbalance: 1.002' [0m
+		|--[96m 'input_linear | Max Time: 12.151 ms | Avg Time: 10.123 ms | Load Imbalance: 1.200' [0m
+			|--[91m 'input_linear X * W | Max Time: 10.274 ms | Avg Time: 8.428 ms | Load Imbalance: 1.219' [0m
+			|--[91m 'all-reduce | Max Time: 0.067 ms | Avg Time: 0.051 ms | Load Imbalance: 1.315' [0m
+			|--[91m 'OUT + BIAS | Max Time: 1.576 ms | Avg Time: 1.445 ms | Load Imbalance: 1.090' [0m
+		|--[96m 'gcn conv fwd | Max Time: 674.513 ms | Avg Time: 667.975 ms | Load Imbalance: 1.010' [0m
+			|--[91m 'AGG = A * H | Max Time: 40.192 ms | Avg Time: 37.430 ms | Load Imbalance: 1.074' [0m
+			|--[91m 'allreduce H | Max Time: 281.074 ms | Avg Time: 278.426 ms | Load Imbalance: 1.010' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.337 ms | Avg Time: 19.305 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 237.948 ms | Avg Time: 235.069 ms | Load Imbalance: 1.012' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.845 ms | Avg Time: 23.448 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'Allgather W | Max Time: 18.832 ms | Avg Time: 15.354 ms | Load Imbalance: 1.227' [0m
+				|--[95m 'gather | Max Time: 18.638 ms | Avg Time: 15.154 ms | Load Imbalance: 1.230' [0m
+			|--[91m 'OUT = AGG * W | Max Time: 40.308 ms | Avg Time: 35.561 ms | Load Imbalance: 1.133' [0m
+			|--[91m 'allreduce Q | Max Time: 306.761 ms | Avg Time: 300.301 ms | Load Imbalance: 1.022' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.431 ms | Avg Time: 19.390 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 263.552 ms | Avg Time: 256.870 ms | Load Imbalance: 1.026' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.816 ms | Avg Time: 23.438 ms | Load Imbalance: 1.144' [0m
+		|--[96m 'activation | Max Time: 69.929 ms | Avg Time: 67.479 ms | Load Imbalance: 1.036' [0m
+			|--[91m 'all-reduce | Max Time: 23.268 ms | Avg Time: 20.241 ms | Load Imbalance: 1.150' [0m
+		|--[96m 'output_linear | Max Time: 66.582 ms | Avg Time: 63.669 ms | Load Imbalance: 1.046' [0m
+			|--[91m 'output_linear X * W | Max Time: 2.643 ms | Avg Time: 2.452 ms | Load Imbalance: 1.078' [0m
+			|--[91m 'all-reduce | Max Time: 60.967 ms | Avg Time: 58.001 ms | Load Imbalance: 1.051' [0m
+			|--[91m 'OUT + BIAS | Max Time: 3.146 ms | Avg Time: 3.013 ms | Load Imbalance: 1.044' [0m
+		|--[96m 'cross entropy fwd | Max Time: 60.459 ms | Avg Time: 54.078 ms | Load Imbalance: 1.118' [0m
+		|--[96m 'cross entropy bwd | Max Time: 9.176 ms | Avg Time: 8.799 ms | Load Imbalance: 1.043' [0m
+		|--[96m 'linear_3d_bwd | Max Time: 22.264 ms | Avg Time: 19.346 ms | Load Imbalance: 1.151' [0m
+			|--[91m 'output_linear GRAD_X | Max Time: 3.500 ms | Avg Time: 3.086 ms | Load Imbalance: 1.134' [0m
+			|--[91m 'all-reduce | Max Time: 0.299 ms | Avg Time: 0.250 ms | Load Imbalance: 1.199' [0m
+			|--[91m 'output_linear GRAD_W | Max Time: 3.533 ms | Avg Time: 3.153 ms | Load Imbalance: 1.120' [0m
+			|--[91m 'input_linear GRAD_W | Max Time: 10.370 ms | Avg Time: 8.819 ms | Load Imbalance: 1.176' [0m
+		|--[96m 'gcn conv bwd | Max Time: 691.053 ms | Avg Time: 688.427 ms | Load Imbalance: 1.004' [0m
+			|--[91m 'GRAD_AGG = GRAD_OUT * W.T | Max Time: 40.671 ms | Avg Time: 35.596 ms | Load Imbalance: 1.143' [0m
+			|--[91m 'allreduce lowp comm dtype | Max Time: 19.300 ms | Avg Time: 19.237 ms | Load Imbalance: 1.003' [0m
+			|--[91m 'allreduce lowp | Max Time: 243.124 ms | Avg Time: 241.846 ms | Load Imbalance: 1.005' [0m
+			|--[91m 'allreduce copy back | Max Time: 26.834 ms | Avg Time: 23.449 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'GRAD_W = AGG.T * GRAD_OUT | Max Time: 45.327 ms | Avg Time: 37.147 ms | Load Imbalance: 1.220' [0m
+			|--[91m 'ReduceScatter grad_weight | Max Time: 6.672 ms | Avg Time: 6.200 ms | Load Imbalance: 1.076' [0m
+				|--[95m 'reduce-scatter | Max Time: 6.477 ms | Avg Time: 6.000 ms | Load Imbalance: 1.079' [0m
+					|--[92m 'reduce-scatter-dist | Max Time: 6.379 ms | Avg Time: 5.900 ms | Load Imbalance: 1.081' [0m
+			|--[91m 'GRAD_H = A.T * GRAD_AGG | Max Time: 40.212 ms | Avg Time: 37.319 ms | Load Imbalance: 1.078' [0m
+			|--[91m 'allreduce grad_x | Max Time: 279.200 ms | Avg Time: 274.004 ms | Load Imbalance: 1.019' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.302 ms | Avg Time: 19.270 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 233.296 ms | Avg Time: 230.682 ms | Load Imbalance: 1.011' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.831 ms | Avg Time: 23.449 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'gather | Max Time: 15.167 ms | Avg Time: 12.222 ms | Load Imbalance: 1.241' [0m
+		|--[96m 'sync_norm_gradients | Max Time: 19.987 ms | Avg Time: 16.075 ms | Load Imbalance: 1.243' [0m
+		|--[96m 'sync_data_parallel_gradients | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.194' [0m
+
+|--[95m 'epoch 4 | Max Time: 2066.436 ms | Avg Time: 2066.409 ms | Load Imbalance: 1.000' [0m
+	|--[92m 'minibatch prep | Max Time: 346.038 ms | Avg Time: 321.057 ms | Load Imbalance: 1.078' [0m
+		|--[96m 'sample nodes | Max Time: 80.770 ms | Avg Time: 73.794 ms | Load Imbalance: 1.095' [0m
+		|--[96m 'compact indices | Max Time: 12.781 ms | Avg Time: 12.464 ms | Load Imbalance: 1.025' [0m
+		|--[96m 'compact adj shards | Max Time: 233.382 ms | Avg Time: 217.879 ms | Load Imbalance: 1.071' [0m
+			|--[91m 'compact layout prep | Max Time: 37.302 ms | Avg Time: 35.377 ms | Load Imbalance: 1.054' [0m
+			|--[91m 'compact csr: indices | Max Time: 1.394 ms | Avg Time: 1.311 ms | Load Imbalance: 1.063' [0m
+			|--[91m 'compact csr: row ptrs | Max Time: 10.931 ms | Avg Time: 10.181 ms | Load Imbalance: 1.074' [0m
+			|--[91m 'compact csr: nnz index | Max Time: 40.814 ms | Avg Time: 36.596 ms | Load Imbalance: 1.115' [0m
+			|--[91m 'compact csr: select nnz | Max Time: 12.897 ms | Avg Time: 12.547 ms | Load Imbalance: 1.028' [0m
+			|--[91m 'compact csr: col map | Max Time: 37.190 ms | Avg Time: 36.611 ms | Load Imbalance: 1.016' [0m
+			|--[91m 'compact csr: edge scale | Max Time: 15.210 ms | Avg Time: 14.104 ms | Load Imbalance: 1.078' [0m
+			|--[91m 'compact csr: crow | Max Time: 12.495 ms | Avg Time: 11.808 ms | Load Imbalance: 1.058' [0m
+			|--[91m 'compact csr: adjt direct | Max Time: 32.966 ms | Avg Time: 29.048 ms | Load Imbalance: 1.135' [0m
+		|--[96m 'compact feature slice | Max Time: 14.933 ms | Avg Time: 12.852 ms | Load Imbalance: 1.162' [0m
+		|--[96m 'compact label slice | Max Time: 1.182 ms | Avg Time: 1.142 ms | Load Imbalance: 1.035' [0m
+	|--[92m 'train step | Max Time: 1747.969 ms | Avg Time: 1744.375 ms | Load Imbalance: 1.002' [0m
+		|--[96m 'input_linear | Max Time: 12.152 ms | Avg Time: 10.123 ms | Load Imbalance: 1.200' [0m
+			|--[91m 'input_linear X * W | Max Time: 10.277 ms | Avg Time: 8.428 ms | Load Imbalance: 1.219' [0m
+			|--[91m 'all-reduce | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.203' [0m
+			|--[91m 'OUT + BIAS | Max Time: 1.574 ms | Avg Time: 1.444 ms | Load Imbalance: 1.090' [0m
+		|--[96m 'gcn conv fwd | Max Time: 672.491 ms | Avg Time: 666.645 ms | Load Imbalance: 1.009' [0m
+			|--[91m 'AGG = A * H | Max Time: 40.095 ms | Avg Time: 37.440 ms | Load Imbalance: 1.071' [0m
+			|--[91m 'allreduce H | Max Time: 277.226 ms | Avg Time: 274.865 ms | Load Imbalance: 1.009' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.338 ms | Avg Time: 19.303 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 234.098 ms | Avg Time: 231.511 ms | Load Imbalance: 1.011' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.845 ms | Avg Time: 23.448 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'Allgather W | Max Time: 19.010 ms | Avg Time: 15.403 ms | Load Imbalance: 1.234' [0m
+				|--[95m 'gather | Max Time: 18.811 ms | Avg Time: 15.203 ms | Load Imbalance: 1.237' [0m
+			|--[91m 'OUT = AGG * W | Max Time: 40.299 ms | Avg Time: 35.561 ms | Load Imbalance: 1.133' [0m
+			|--[91m 'allreduce Q | Max Time: 308.421 ms | Avg Time: 302.473 ms | Load Imbalance: 1.020' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.423 ms | Avg Time: 19.386 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 265.214 ms | Avg Time: 259.048 ms | Load Imbalance: 1.024' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.814 ms | Avg Time: 23.436 ms | Load Imbalance: 1.144' [0m
+		|--[96m 'activation | Max Time: 69.986 ms | Avg Time: 67.486 ms | Load Imbalance: 1.037' [0m
+			|--[91m 'all-reduce | Max Time: 23.346 ms | Avg Time: 20.250 ms | Load Imbalance: 1.153' [0m
+		|--[96m 'output_linear | Max Time: 65.282 ms | Avg Time: 62.654 ms | Load Imbalance: 1.042' [0m
+			|--[91m 'output_linear X * W | Max Time: 2.642 ms | Avg Time: 2.453 ms | Load Imbalance: 1.077' [0m
+			|--[91m 'all-reduce | Max Time: 59.658 ms | Avg Time: 56.987 ms | Load Imbalance: 1.047' [0m
+			|--[91m 'OUT + BIAS | Max Time: 3.143 ms | Avg Time: 3.010 ms | Load Imbalance: 1.044' [0m
+		|--[96m 'cross entropy fwd | Max Time: 60.480 ms | Avg Time: 54.081 ms | Load Imbalance: 1.118' [0m
+		|--[96m 'cross entropy bwd | Max Time: 9.175 ms | Avg Time: 8.807 ms | Load Imbalance: 1.042' [0m
+		|--[96m 'linear_3d_bwd | Max Time: 22.255 ms | Avg Time: 19.346 ms | Load Imbalance: 1.150' [0m
+			|--[91m 'output_linear GRAD_X | Max Time: 3.500 ms | Avg Time: 3.084 ms | Load Imbalance: 1.135' [0m
+			|--[91m 'all-reduce | Max Time: 0.300 ms | Avg Time: 0.250 ms | Load Imbalance: 1.202' [0m
+			|--[91m 'output_linear GRAD_W | Max Time: 3.526 ms | Avg Time: 3.153 ms | Load Imbalance: 1.118' [0m
+			|--[91m 'input_linear GRAD_W | Max Time: 10.375 ms | Avg Time: 8.818 ms | Load Imbalance: 1.177' [0m
+		|--[96m 'gcn conv bwd | Max Time: 693.726 ms | Avg Time: 691.013 ms | Load Imbalance: 1.004' [0m
+			|--[91m 'GRAD_AGG = GRAD_OUT * W.T | Max Time: 40.665 ms | Avg Time: 35.603 ms | Load Imbalance: 1.142' [0m
+			|--[91m 'allreduce lowp comm dtype | Max Time: 19.283 ms | Avg Time: 19.236 ms | Load Imbalance: 1.002' [0m
+			|--[91m 'allreduce lowp | Max Time: 240.886 ms | Avg Time: 239.339 ms | Load Imbalance: 1.006' [0m
+			|--[91m 'allreduce copy back | Max Time: 26.831 ms | Avg Time: 23.448 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'GRAD_W = AGG.T * GRAD_OUT | Max Time: 45.412 ms | Avg Time: 37.149 ms | Load Imbalance: 1.222' [0m
+			|--[91m 'ReduceScatter grad_weight | Max Time: 6.683 ms | Avg Time: 6.256 ms | Load Imbalance: 1.068' [0m
+				|--[95m 'reduce-scatter | Max Time: 6.487 ms | Avg Time: 6.056 ms | Load Imbalance: 1.071' [0m
+					|--[92m 'reduce-scatter-dist | Max Time: 6.389 ms | Avg Time: 5.956 ms | Load Imbalance: 1.073' [0m
+			|--[91m 'GRAD_H = A.T * GRAD_AGG | Max Time: 40.216 ms | Avg Time: 37.318 ms | Load Imbalance: 1.078' [0m
+			|--[91m 'allreduce grad_x | Max Time: 284.028 ms | Avg Time: 278.912 ms | Load Imbalance: 1.018' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.302 ms | Avg Time: 19.270 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 238.226 ms | Avg Time: 235.589 ms | Load Imbalance: 1.011' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.828 ms | Avg Time: 23.449 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'gather | Max Time: 15.678 ms | Avg Time: 12.343 ms | Load Imbalance: 1.270' [0m
+		|--[96m 'sync_norm_gradients | Max Time: 19.422 ms | Avg Time: 15.964 ms | Load Imbalance: 1.217' [0m
+		|--[96m 'sync_data_parallel_gradients | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.203' [0m
+
+|--[95m 'epoch 5 | Max Time: 2067.958 ms | Avg Time: 2067.931 ms | Load Imbalance: 1.000' [0m
+	|--[92m 'minibatch prep | Max Time: 346.256 ms | Avg Time: 320.914 ms | Load Imbalance: 1.079' [0m
+		|--[96m 'sample nodes | Max Time: 80.761 ms | Avg Time: 73.788 ms | Load Imbalance: 1.095' [0m
+		|--[96m 'compact indices | Max Time: 13.043 ms | Avg Time: 12.486 ms | Load Imbalance: 1.045' [0m
+		|--[96m 'compact adj shards | Max Time: 233.310 ms | Avg Time: 217.736 ms | Load Imbalance: 1.072' [0m
+			|--[91m 'compact layout prep | Max Time: 37.671 ms | Avg Time: 35.617 ms | Load Imbalance: 1.058' [0m
+			|--[91m 'compact csr: indices | Max Time: 1.394 ms | Avg Time: 1.305 ms | Load Imbalance: 1.068' [0m
+			|--[91m 'compact csr: row ptrs | Max Time: 10.833 ms | Avg Time: 10.186 ms | Load Imbalance: 1.064' [0m
+			|--[91m 'compact csr: nnz index | Max Time: 40.783 ms | Avg Time: 36.574 ms | Load Imbalance: 1.115' [0m
+			|--[91m 'compact csr: select nnz | Max Time: 12.884 ms | Avg Time: 12.525 ms | Load Imbalance: 1.029' [0m
+			|--[91m 'compact csr: col map | Max Time: 37.154 ms | Avg Time: 36.600 ms | Load Imbalance: 1.015' [0m
+			|--[91m 'compact csr: edge scale | Max Time: 15.200 ms | Avg Time: 14.023 ms | Load Imbalance: 1.084' [0m
+			|--[91m 'compact csr: crow | Max Time: 12.463 ms | Avg Time: 11.717 ms | Load Imbalance: 1.064' [0m
+			|--[91m 'compact csr: adjt direct | Max Time: 32.943 ms | Avg Time: 28.993 ms | Load Imbalance: 1.136' [0m
+		|--[96m 'compact feature slice | Max Time: 14.924 ms | Avg Time: 12.850 ms | Load Imbalance: 1.161' [0m
+		|--[96m 'compact label slice | Max Time: 1.180 ms | Avg Time: 1.141 ms | Load Imbalance: 1.034' [0m
+	|--[92m 'train step | Max Time: 1749.796 ms | Avg Time: 1746.047 ms | Load Imbalance: 1.002' [0m
+		|--[96m 'input_linear | Max Time: 12.173 ms | Avg Time: 10.123 ms | Load Imbalance: 1.203' [0m
+			|--[91m 'input_linear X * W | Max Time: 10.285 ms | Avg Time: 8.428 ms | Load Imbalance: 1.220' [0m
+			|--[91m 'all-reduce | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.205' [0m
+			|--[91m 'OUT + BIAS | Max Time: 1.576 ms | Avg Time: 1.444 ms | Load Imbalance: 1.091' [0m
+		|--[96m 'gcn conv fwd | Max Time: 682.711 ms | Avg Time: 676.804 ms | Load Imbalance: 1.009' [0m
+			|--[91m 'AGG = A * H | Max Time: 40.153 ms | Avg Time: 37.429 ms | Load Imbalance: 1.073' [0m
+			|--[91m 'allreduce H | Max Time: 281.142 ms | Avg Time: 278.241 ms | Load Imbalance: 1.010' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.333 ms | Avg Time: 19.307 ms | Load Imbalance: 1.001' [0m
+				|--[95m 'allreduce lowp | Max Time: 238.027 ms | Avg Time: 234.883 ms | Load Imbalance: 1.013' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.850 ms | Avg Time: 23.448 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'Allgather W | Max Time: 18.410 ms | Avg Time: 15.162 ms | Load Imbalance: 1.214' [0m
+				|--[95m 'gather | Max Time: 18.216 ms | Avg Time: 14.962 ms | Load Imbalance: 1.217' [0m
+			|--[91m 'OUT = AGG * W | Max Time: 40.369 ms | Avg Time: 35.553 ms | Load Imbalance: 1.135' [0m
+			|--[91m 'allreduce Q | Max Time: 315.241 ms | Avg Time: 309.516 ms | Load Imbalance: 1.018' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.437 ms | Avg Time: 19.391 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 272.030 ms | Avg Time: 266.084 ms | Load Imbalance: 1.022' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.820 ms | Avg Time: 23.437 ms | Load Imbalance: 1.144' [0m
+		|--[96m 'activation | Max Time: 70.516 ms | Avg Time: 68.005 ms | Load Imbalance: 1.037' [0m
+			|--[91m 'all-reduce | Max Time: 23.873 ms | Avg Time: 20.768 ms | Load Imbalance: 1.149' [0m
+		|--[96m 'output_linear | Max Time: 64.830 ms | Avg Time: 62.284 ms | Load Imbalance: 1.041' [0m
+			|--[91m 'output_linear X * W | Max Time: 2.647 ms | Avg Time: 2.453 ms | Load Imbalance: 1.079' [0m
+			|--[91m 'all-reduce | Max Time: 59.209 ms | Avg Time: 56.617 ms | Load Imbalance: 1.046' [0m
+			|--[91m 'OUT + BIAS | Max Time: 3.143 ms | Avg Time: 3.010 ms | Load Imbalance: 1.044' [0m
+		|--[96m 'cross entropy fwd | Max Time: 60.504 ms | Avg Time: 54.087 ms | Load Imbalance: 1.119' [0m
+		|--[96m 'cross entropy bwd | Max Time: 9.167 ms | Avg Time: 8.811 ms | Load Imbalance: 1.040' [0m
+		|--[96m 'linear_3d_bwd | Max Time: 22.242 ms | Avg Time: 19.347 ms | Load Imbalance: 1.150' [0m
+			|--[91m 'output_linear GRAD_X | Max Time: 3.500 ms | Avg Time: 3.087 ms | Load Imbalance: 1.134' [0m
+			|--[91m 'all-reduce | Max Time: 0.301 ms | Avg Time: 0.250 ms | Load Imbalance: 1.203' [0m
+			|--[91m 'output_linear GRAD_W | Max Time: 3.528 ms | Avg Time: 3.153 ms | Load Imbalance: 1.119' [0m
+			|--[91m 'input_linear GRAD_W | Max Time: 10.371 ms | Avg Time: 8.818 ms | Load Imbalance: 1.176' [0m
+		|--[96m 'gcn conv bwd | Max Time: 685.348 ms | Avg Time: 681.933 ms | Load Imbalance: 1.005' [0m
+			|--[91m 'GRAD_AGG = GRAD_OUT * W.T | Max Time: 40.724 ms | Avg Time: 35.600 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'allreduce lowp comm dtype | Max Time: 19.313 ms | Avg Time: 19.243 ms | Load Imbalance: 1.004' [0m
+			|--[91m 'allreduce lowp | Max Time: 236.890 ms | Avg Time: 235.415 ms | Load Imbalance: 1.006' [0m
+			|--[91m 'allreduce copy back | Max Time: 26.840 ms | Avg Time: 23.450 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'GRAD_W = AGG.T * GRAD_OUT | Max Time: 45.330 ms | Avg Time: 37.145 ms | Load Imbalance: 1.220' [0m
+			|--[91m 'ReduceScatter grad_weight | Max Time: 6.735 ms | Avg Time: 6.275 ms | Load Imbalance: 1.073' [0m
+				|--[95m 'reduce-scatter | Max Time: 6.541 ms | Avg Time: 6.075 ms | Load Imbalance: 1.077' [0m
+					|--[92m 'reduce-scatter-dist | Max Time: 6.443 ms | Avg Time: 5.975 ms | Load Imbalance: 1.078' [0m
+			|--[91m 'GRAD_H = A.T * GRAD_AGG | Max Time: 40.157 ms | Avg Time: 37.328 ms | Load Imbalance: 1.076' [0m
+			|--[91m 'allreduce grad_x | Max Time: 279.172 ms | Avg Time: 273.735 ms | Load Imbalance: 1.020' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.302 ms | Avg Time: 19.271 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 233.423 ms | Avg Time: 230.412 ms | Load Imbalance: 1.013' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.831 ms | Avg Time: 23.448 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'gather | Max Time: 15.692 ms | Avg Time: 12.335 ms | Load Imbalance: 1.272' [0m
+		|--[96m 'sync_norm_gradients | Max Time: 20.057 ms | Avg Time: 16.217 ms | Load Imbalance: 1.237' [0m
+		|--[96m 'sync_data_parallel_gradients | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.199' [0m
+
+|--[95m 'epoch 6 | Max Time: 2070.924 ms | Avg Time: 2070.872 ms | Load Imbalance: 1.000' [0m
+	|--[92m 'minibatch prep | Max Time: 346.222 ms | Avg Time: 321.319 ms | Load Imbalance: 1.078' [0m
+		|--[96m 'sample nodes | Max Time: 80.705 ms | Avg Time: 73.823 ms | Load Imbalance: 1.093' [0m
+		|--[96m 'compact indices | Max Time: 12.986 ms | Avg Time: 12.457 ms | Load Imbalance: 1.042' [0m
+		|--[96m 'compact adj shards | Max Time: 233.389 ms | Avg Time: 218.113 ms | Load Imbalance: 1.070' [0m
+			|--[91m 'compact layout prep | Max Time: 37.477 ms | Avg Time: 35.450 ms | Load Imbalance: 1.057' [0m
+			|--[91m 'compact csr: indices | Max Time: 1.413 ms | Avg Time: 1.368 ms | Load Imbalance: 1.033' [0m
+			|--[91m 'compact csr: row ptrs | Max Time: 10.809 ms | Avg Time: 10.199 ms | Load Imbalance: 1.060' [0m
+			|--[91m 'compact csr: nnz index | Max Time: 40.776 ms | Avg Time: 36.581 ms | Load Imbalance: 1.115' [0m
+			|--[91m 'compact csr: select nnz | Max Time: 12.841 ms | Avg Time: 12.526 ms | Load Imbalance: 1.025' [0m
+			|--[91m 'compact csr: col map | Max Time: 37.172 ms | Avg Time: 36.601 ms | Load Imbalance: 1.016' [0m
+			|--[91m 'compact csr: edge scale | Max Time: 15.131 ms | Avg Time: 14.083 ms | Load Imbalance: 1.074' [0m
+			|--[91m 'compact csr: crow | Max Time: 12.569 ms | Avg Time: 11.956 ms | Load Imbalance: 1.051' [0m
+			|--[91m 'compact csr: adjt direct | Max Time: 33.066 ms | Avg Time: 29.036 ms | Load Imbalance: 1.139' [0m
+		|--[96m 'compact feature slice | Max Time: 14.933 ms | Avg Time: 12.849 ms | Load Imbalance: 1.162' [0m
+		|--[96m 'compact label slice | Max Time: 1.182 ms | Avg Time: 1.142 ms | Load Imbalance: 1.035' [0m
+	|--[92m 'train step | Max Time: 1752.188 ms | Avg Time: 1748.559 ms | Load Imbalance: 1.002' [0m
+		|--[96m 'input_linear | Max Time: 12.156 ms | Avg Time: 10.125 ms | Load Imbalance: 1.201' [0m
+			|--[91m 'input_linear X * W | Max Time: 10.282 ms | Avg Time: 8.430 ms | Load Imbalance: 1.220' [0m
+			|--[91m 'all-reduce | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.191' [0m
+			|--[91m 'OUT + BIAS | Max Time: 1.575 ms | Avg Time: 1.444 ms | Load Imbalance: 1.090' [0m
+		|--[96m 'gcn conv fwd | Max Time: 680.335 ms | Avg Time: 674.124 ms | Load Imbalance: 1.009' [0m
+			|--[91m 'AGG = A * H | Max Time: 40.158 ms | Avg Time: 37.428 ms | Load Imbalance: 1.073' [0m
+			|--[91m 'allreduce H | Max Time: 282.641 ms | Avg Time: 279.581 ms | Load Imbalance: 1.011' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.341 ms | Avg Time: 19.305 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 239.516 ms | Avg Time: 236.225 ms | Load Imbalance: 1.014' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.845 ms | Avg Time: 23.448 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'Allgather W | Max Time: 19.258 ms | Avg Time: 15.346 ms | Load Imbalance: 1.255' [0m
+				|--[95m 'gather | Max Time: 19.063 ms | Avg Time: 15.146 ms | Load Imbalance: 1.259' [0m
+			|--[91m 'OUT = AGG * W | Max Time: 40.340 ms | Avg Time: 35.561 ms | Load Imbalance: 1.134' [0m
+			|--[91m 'allreduce Q | Max Time: 311.406 ms | Avg Time: 305.305 ms | Load Imbalance: 1.020' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.439 ms | Avg Time: 19.392 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 268.199 ms | Avg Time: 261.872 ms | Load Imbalance: 1.024' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.820 ms | Avg Time: 23.437 ms | Load Imbalance: 1.144' [0m
+		|--[96m 'activation | Max Time: 70.743 ms | Avg Time: 67.920 ms | Load Imbalance: 1.042' [0m
+			|--[91m 'all-reduce | Max Time: 24.113 ms | Avg Time: 20.682 ms | Load Imbalance: 1.166' [0m
+		|--[96m 'output_linear | Max Time: 66.561 ms | Avg Time: 63.739 ms | Load Imbalance: 1.044' [0m
+			|--[91m 'output_linear X * W | Max Time: 2.639 ms | Avg Time: 2.450 ms | Load Imbalance: 1.077' [0m
+			|--[91m 'all-reduce | Max Time: 60.941 ms | Avg Time: 58.075 ms | Load Imbalance: 1.049' [0m
+			|--[91m 'OUT + BIAS | Max Time: 3.144 ms | Avg Time: 3.011 ms | Load Imbalance: 1.044' [0m
+		|--[96m 'cross entropy fwd | Max Time: 60.541 ms | Avg Time: 54.087 ms | Load Imbalance: 1.119' [0m
+		|--[96m 'cross entropy bwd | Max Time: 9.167 ms | Avg Time: 8.769 ms | Load Imbalance: 1.045' [0m
+		|--[96m 'linear_3d_bwd | Max Time: 22.268 ms | Avg Time: 19.347 ms | Load Imbalance: 1.151' [0m
+			|--[91m 'output_linear GRAD_X | Max Time: 3.501 ms | Avg Time: 3.085 ms | Load Imbalance: 1.135' [0m
+			|--[91m 'all-reduce | Max Time: 0.300 ms | Avg Time: 0.249 ms | Load Imbalance: 1.203' [0m
+			|--[91m 'output_linear GRAD_W | Max Time: 3.531 ms | Avg Time: 3.154 ms | Load Imbalance: 1.120' [0m
+			|--[91m 'input_linear GRAD_W | Max Time: 10.379 ms | Avg Time: 8.816 ms | Load Imbalance: 1.177' [0m
+		|--[96m 'gcn conv bwd | Max Time: 688.701 ms | Avg Time: 685.839 ms | Load Imbalance: 1.004' [0m
+			|--[91m 'GRAD_AGG = GRAD_OUT * W.T | Max Time: 40.694 ms | Avg Time: 35.596 ms | Load Imbalance: 1.143' [0m
+			|--[91m 'allreduce lowp comm dtype | Max Time: 19.271 ms | Avg Time: 19.235 ms | Load Imbalance: 1.002' [0m
+			|--[91m 'allreduce lowp | Max Time: 241.686 ms | Avg Time: 240.736 ms | Load Imbalance: 1.004' [0m
+			|--[91m 'allreduce copy back | Max Time: 26.838 ms | Avg Time: 23.450 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'GRAD_W = AGG.T * GRAD_OUT | Max Time: 45.285 ms | Avg Time: 37.141 ms | Load Imbalance: 1.219' [0m
+			|--[91m 'ReduceScatter grad_weight | Max Time: 6.679 ms | Avg Time: 6.223 ms | Load Imbalance: 1.073' [0m
+				|--[95m 'reduce-scatter | Max Time: 6.483 ms | Avg Time: 6.023 ms | Load Imbalance: 1.076' [0m
+					|--[92m 'reduce-scatter-dist | Max Time: 6.385 ms | Avg Time: 5.923 ms | Load Imbalance: 1.078' [0m
+			|--[91m 'GRAD_H = A.T * GRAD_AGG | Max Time: 40.108 ms | Avg Time: 37.319 ms | Load Imbalance: 1.075' [0m
+			|--[91m 'allreduce grad_x | Max Time: 278.194 ms | Avg Time: 272.543 ms | Load Imbalance: 1.021' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.297 ms | Avg Time: 19.269 ms | Load Imbalance: 1.001' [0m
+				|--[95m 'allreduce lowp | Max Time: 232.187 ms | Avg Time: 229.221 ms | Load Imbalance: 1.013' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.829 ms | Avg Time: 23.449 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'gather | Max Time: 15.519 ms | Avg Time: 12.188 ms | Load Imbalance: 1.273' [0m
+		|--[96m 'sync_norm_gradients | Max Time: 20.343 ms | Avg Time: 16.388 ms | Load Imbalance: 1.241' [0m
+		|--[96m 'sync_data_parallel_gradients | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.208' [0m
+
+|--[95m 'epoch 7 | Max Time: 2070.684 ms | Avg Time: 2070.646 ms | Load Imbalance: 1.000' [0m
+	|--[92m 'minibatch prep | Max Time: 346.837 ms | Avg Time: 321.758 ms | Load Imbalance: 1.078' [0m
+		|--[96m 'sample nodes | Max Time: 80.740 ms | Avg Time: 73.803 ms | Load Imbalance: 1.094' [0m
+		|--[96m 'compact indices | Max Time: 13.177 ms | Avg Time: 12.591 ms | Load Imbalance: 1.047' [0m
+		|--[96m 'compact adj shards | Max Time: 233.736 ms | Avg Time: 218.430 ms | Load Imbalance: 1.070' [0m
+			|--[91m 'compact layout prep | Max Time: 37.603 ms | Avg Time: 35.645 ms | Load Imbalance: 1.055' [0m
+			|--[91m 'compact csr: indices | Max Time: 1.374 ms | Avg Time: 1.319 ms | Load Imbalance: 1.042' [0m
+			|--[91m 'compact csr: row ptrs | Max Time: 10.904 ms | Avg Time: 10.207 ms | Load Imbalance: 1.068' [0m
+			|--[91m 'compact csr: nnz index | Max Time: 40.749 ms | Avg Time: 36.558 ms | Load Imbalance: 1.115' [0m
+			|--[91m 'compact csr: select nnz | Max Time: 12.869 ms | Avg Time: 12.544 ms | Load Imbalance: 1.026' [0m
+			|--[91m 'compact csr: col map | Max Time: 37.141 ms | Avg Time: 36.577 ms | Load Imbalance: 1.015' [0m
+			|--[91m 'compact csr: edge scale | Max Time: 15.249 ms | Avg Time: 14.210 ms | Load Imbalance: 1.073' [0m
+			|--[91m 'compact csr: crow | Max Time: 12.543 ms | Avg Time: 11.848 ms | Load Imbalance: 1.059' [0m
+			|--[91m 'compact csr: adjt direct | Max Time: 33.147 ms | Avg Time: 29.067 ms | Load Imbalance: 1.140' [0m
+		|--[96m 'compact feature slice | Max Time: 14.935 ms | Avg Time: 12.851 ms | Load Imbalance: 1.162' [0m
+		|--[96m 'compact label slice | Max Time: 1.180 ms | Avg Time: 1.141 ms | Load Imbalance: 1.034' [0m
+	|--[92m 'train step | Max Time: 1751.559 ms | Avg Time: 1747.901 ms | Load Imbalance: 1.002' [0m
+		|--[96m 'input_linear | Max Time: 12.156 ms | Avg Time: 10.124 ms | Load Imbalance: 1.201' [0m
+			|--[91m 'input_linear X * W | Max Time: 10.279 ms | Avg Time: 8.429 ms | Load Imbalance: 1.219' [0m
+			|--[91m 'all-reduce | Max Time: 0.061 ms | Avg Time: 0.050 ms | Load Imbalance: 1.213' [0m
+			|--[91m 'OUT + BIAS | Max Time: 1.576 ms | Avg Time: 1.445 ms | Load Imbalance: 1.091' [0m
+		|--[96m 'gcn conv fwd | Max Time: 674.198 ms | Avg Time: 668.158 ms | Load Imbalance: 1.009' [0m
+			|--[91m 'AGG = A * H | Max Time: 40.098 ms | Avg Time: 37.423 ms | Load Imbalance: 1.071' [0m
+			|--[91m 'allreduce H | Max Time: 279.785 ms | Avg Time: 276.883 ms | Load Imbalance: 1.010' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.335 ms | Avg Time: 19.304 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 236.672 ms | Avg Time: 233.528 ms | Load Imbalance: 1.013' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.844 ms | Avg Time: 23.447 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'Allgather W | Max Time: 19.353 ms | Avg Time: 15.593 ms | Load Imbalance: 1.241' [0m
+				|--[95m 'gather | Max Time: 19.158 ms | Avg Time: 15.392 ms | Load Imbalance: 1.245' [0m
+			|--[91m 'OUT = AGG * W | Max Time: 40.340 ms | Avg Time: 35.560 ms | Load Imbalance: 1.134' [0m
+			|--[91m 'allreduce Q | Max Time: 307.919 ms | Avg Time: 301.797 ms | Load Imbalance: 1.020' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.411 ms | Avg Time: 19.382 ms | Load Imbalance: 1.001' [0m
+				|--[95m 'allreduce lowp | Max Time: 264.717 ms | Avg Time: 258.373 ms | Load Imbalance: 1.025' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.818 ms | Avg Time: 23.438 ms | Load Imbalance: 1.144' [0m
+		|--[96m 'activation | Max Time: 70.365 ms | Avg Time: 67.844 ms | Load Imbalance: 1.037' [0m
+			|--[91m 'all-reduce | Max Time: 23.729 ms | Avg Time: 20.607 ms | Load Imbalance: 1.151' [0m
+		|--[96m 'output_linear | Max Time: 65.896 ms | Avg Time: 63.112 ms | Load Imbalance: 1.044' [0m
+			|--[91m 'output_linear X * W | Max Time: 2.648 ms | Avg Time: 2.454 ms | Load Imbalance: 1.079' [0m
+			|--[91m 'all-reduce | Max Time: 60.265 ms | Avg Time: 57.443 ms | Load Imbalance: 1.049' [0m
+			|--[91m 'OUT + BIAS | Max Time: 3.144 ms | Avg Time: 3.011 ms | Load Imbalance: 1.044' [0m
+		|--[96m 'cross entropy fwd | Max Time: 60.519 ms | Avg Time: 54.069 ms | Load Imbalance: 1.119' [0m
+		|--[96m 'cross entropy bwd | Max Time: 9.164 ms | Avg Time: 8.777 ms | Load Imbalance: 1.044' [0m
+		|--[96m 'linear_3d_bwd | Max Time: 22.264 ms | Avg Time: 19.345 ms | Load Imbalance: 1.151' [0m
+			|--[91m 'output_linear GRAD_X | Max Time: 3.502 ms | Avg Time: 3.083 ms | Load Imbalance: 1.136' [0m
+			|--[91m 'all-reduce | Max Time: 0.301 ms | Avg Time: 0.250 ms | Load Imbalance: 1.204' [0m
+			|--[91m 'output_linear GRAD_W | Max Time: 3.526 ms | Avg Time: 3.154 ms | Load Imbalance: 1.118' [0m
+			|--[91m 'input_linear GRAD_W | Max Time: 10.376 ms | Avg Time: 8.819 ms | Load Imbalance: 1.176' [0m
+		|--[96m 'gcn conv bwd | Max Time: 694.759 ms | Avg Time: 692.079 ms | Load Imbalance: 1.004' [0m
+			|--[91m 'GRAD_AGG = GRAD_OUT * W.T | Max Time: 40.695 ms | Avg Time: 35.599 ms | Load Imbalance: 1.143' [0m
+			|--[91m 'allreduce lowp comm dtype | Max Time: 19.266 ms | Avg Time: 19.231 ms | Load Imbalance: 1.002' [0m
+			|--[91m 'allreduce lowp | Max Time: 243.937 ms | Avg Time: 242.746 ms | Load Imbalance: 1.005' [0m
+			|--[91m 'allreduce copy back | Max Time: 26.839 ms | Avg Time: 23.448 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'GRAD_W = AGG.T * GRAD_OUT | Max Time: 45.367 ms | Avg Time: 37.150 ms | Load Imbalance: 1.221' [0m
+			|--[91m 'ReduceScatter grad_weight | Max Time: 6.752 ms | Avg Time: 6.282 ms | Load Imbalance: 1.075' [0m
+				|--[95m 'reduce-scatter | Max Time: 6.556 ms | Avg Time: 6.082 ms | Load Imbalance: 1.078' [0m
+					|--[92m 'reduce-scatter-dist | Max Time: 6.458 ms | Avg Time: 5.982 ms | Load Imbalance: 1.080' [0m
+			|--[91m 'GRAD_H = A.T * GRAD_AGG | Max Time: 40.157 ms | Avg Time: 37.319 ms | Load Imbalance: 1.076' [0m
+			|--[91m 'allreduce grad_x | Max Time: 282.020 ms | Avg Time: 276.709 ms | Load Imbalance: 1.019' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.302 ms | Avg Time: 19.274 ms | Load Imbalance: 1.001' [0m
+				|--[95m 'allreduce lowp | Max Time: 236.272 ms | Avg Time: 233.382 ms | Load Imbalance: 1.012' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.830 ms | Avg Time: 23.451 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'gather | Max Time: 15.283 ms | Avg Time: 12.189 ms | Load Imbalance: 1.254' [0m
+		|--[96m 'sync_norm_gradients | Max Time: 20.054 ms | Avg Time: 16.138 ms | Load Imbalance: 1.243' [0m
+		|--[96m 'sync_data_parallel_gradients | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.202' [0m
+
+|--[95m 'epoch 8 | Max Time: 2064.929 ms | Avg Time: 2064.905 ms | Load Imbalance: 1.000' [0m
+	|--[92m 'minibatch prep | Max Time: 345.686 ms | Avg Time: 321.007 ms | Load Imbalance: 1.077' [0m
+		|--[96m 'sample nodes | Max Time: 80.750 ms | Avg Time: 73.796 ms | Load Imbalance: 1.094' [0m
+		|--[96m 'compact indices | Max Time: 12.950 ms | Avg Time: 12.521 ms | Load Imbalance: 1.034' [0m
+		|--[96m 'compact adj shards | Max Time: 232.860 ms | Avg Time: 217.762 ms | Load Imbalance: 1.069' [0m
+			|--[91m 'compact layout prep | Max Time: 37.489 ms | Avg Time: 35.469 ms | Load Imbalance: 1.057' [0m
+			|--[91m 'compact csr: indices | Max Time: 1.380 ms | Avg Time: 1.305 ms | Load Imbalance: 1.057' [0m
+			|--[91m 'compact csr: row ptrs | Max Time: 10.892 ms | Avg Time: 10.170 ms | Load Imbalance: 1.071' [0m
+			|--[91m 'compact csr: nnz index | Max Time: 40.683 ms | Avg Time: 36.500 ms | Load Imbalance: 1.115' [0m
+			|--[91m 'compact csr: select nnz | Max Time: 12.853 ms | Avg Time: 12.527 ms | Load Imbalance: 1.026' [0m
+			|--[91m 'compact csr: col map | Max Time: 37.126 ms | Avg Time: 36.566 ms | Load Imbalance: 1.015' [0m
+			|--[91m 'compact csr: edge scale | Max Time: 15.103 ms | Avg Time: 14.086 ms | Load Imbalance: 1.072' [0m
+			|--[91m 'compact csr: crow | Max Time: 12.375 ms | Avg Time: 11.752 ms | Load Imbalance: 1.053' [0m
+			|--[91m 'compact csr: adjt direct | Max Time: 32.969 ms | Avg Time: 28.960 ms | Load Imbalance: 1.138' [0m
+		|--[96m 'compact feature slice | Max Time: 14.939 ms | Avg Time: 12.852 ms | Load Imbalance: 1.162' [0m
+		|--[96m 'compact label slice | Max Time: 1.179 ms | Avg Time: 1.141 ms | Load Imbalance: 1.033' [0m
+	|--[92m 'train step | Max Time: 1746.211 ms | Avg Time: 1742.919 ms | Load Imbalance: 1.002' [0m
+		|--[96m 'input_linear | Max Time: 12.157 ms | Avg Time: 10.124 ms | Load Imbalance: 1.201' [0m
+			|--[91m 'input_linear X * W | Max Time: 10.281 ms | Avg Time: 8.430 ms | Load Imbalance: 1.220' [0m
+			|--[91m 'all-reduce | Max Time: 0.061 ms | Avg Time: 0.050 ms | Load Imbalance: 1.221' [0m
+			|--[91m 'OUT + BIAS | Max Time: 1.574 ms | Avg Time: 1.444 ms | Load Imbalance: 1.090' [0m
+		|--[96m 'gcn conv fwd | Max Time: 678.990 ms | Avg Time: 673.223 ms | Load Imbalance: 1.009' [0m
+			|--[91m 'AGG = A * H | Max Time: 40.119 ms | Avg Time: 37.415 ms | Load Imbalance: 1.072' [0m
+			|--[91m 'allreduce H | Max Time: 277.586 ms | Avg Time: 274.632 ms | Load Imbalance: 1.011' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.331 ms | Avg Time: 19.304 ms | Load Imbalance: 1.001' [0m
+				|--[95m 'allreduce lowp | Max Time: 234.462 ms | Avg Time: 231.277 ms | Load Imbalance: 1.014' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.843 ms | Avg Time: 23.447 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'Allgather W | Max Time: 19.326 ms | Avg Time: 15.429 ms | Load Imbalance: 1.253' [0m
+				|--[95m 'gather | Max Time: 19.132 ms | Avg Time: 15.229 ms | Load Imbalance: 1.256' [0m
+			|--[91m 'OUT = AGG * W | Max Time: 40.313 ms | Avg Time: 35.565 ms | Load Imbalance: 1.133' [0m
+			|--[91m 'allreduce Q | Max Time: 315.153 ms | Avg Time: 309.280 ms | Load Imbalance: 1.019' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.430 ms | Avg Time: 19.388 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 271.943 ms | Avg Time: 265.851 ms | Load Imbalance: 1.023' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.817 ms | Avg Time: 23.437 ms | Load Imbalance: 1.144' [0m
+		|--[96m 'activation | Max Time: 70.381 ms | Avg Time: 67.891 ms | Load Imbalance: 1.037' [0m
+			|--[91m 'all-reduce | Max Time: 23.739 ms | Avg Time: 20.654 ms | Load Imbalance: 1.149' [0m
+		|--[96m 'output_linear | Max Time: 65.227 ms | Avg Time: 62.790 ms | Load Imbalance: 1.039' [0m
+			|--[91m 'output_linear X * W | Max Time: 2.647 ms | Avg Time: 2.452 ms | Load Imbalance: 1.080' [0m
+			|--[91m 'all-reduce | Max Time: 59.606 ms | Avg Time: 57.128 ms | Load Imbalance: 1.043' [0m
+			|--[91m 'OUT + BIAS | Max Time: 3.142 ms | Avg Time: 3.007 ms | Load Imbalance: 1.045' [0m
+		|--[96m 'cross entropy fwd | Max Time: 60.497 ms | Avg Time: 54.073 ms | Load Imbalance: 1.119' [0m
+		|--[96m 'cross entropy bwd | Max Time: 9.172 ms | Avg Time: 8.793 ms | Load Imbalance: 1.043' [0m
+		|--[96m 'linear_3d_bwd | Max Time: 22.255 ms | Avg Time: 19.348 ms | Load Imbalance: 1.150' [0m
+			|--[91m 'output_linear GRAD_X | Max Time: 3.500 ms | Avg Time: 3.087 ms | Load Imbalance: 1.134' [0m
+			|--[91m 'all-reduce | Max Time: 0.301 ms | Avg Time: 0.250 ms | Load Imbalance: 1.203' [0m
+			|--[91m 'output_linear GRAD_W | Max Time: 3.527 ms | Avg Time: 3.153 ms | Load Imbalance: 1.119' [0m
+			|--[91m 'input_linear GRAD_W | Max Time: 10.368 ms | Avg Time: 8.814 ms | Load Imbalance: 1.176' [0m
+		|--[96m 'gcn conv bwd | Max Time: 685.219 ms | Avg Time: 682.079 ms | Load Imbalance: 1.005' [0m
+			|--[91m 'GRAD_AGG = GRAD_OUT * W.T | Max Time: 40.660 ms | Avg Time: 35.605 ms | Load Imbalance: 1.142' [0m
+			|--[91m 'allreduce lowp comm dtype | Max Time: 19.308 ms | Avg Time: 19.242 ms | Load Imbalance: 1.003' [0m
+			|--[91m 'allreduce lowp | Max Time: 238.186 ms | Avg Time: 236.997 ms | Load Imbalance: 1.005' [0m
+			|--[91m 'allreduce copy back | Max Time: 26.838 ms | Avg Time: 23.450 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'GRAD_W = AGG.T * GRAD_OUT | Max Time: 45.331 ms | Avg Time: 37.140 ms | Load Imbalance: 1.221' [0m
+			|--[91m 'ReduceScatter grad_weight | Max Time: 6.672 ms | Avg Time: 6.215 ms | Load Imbalance: 1.074' [0m
+				|--[95m 'reduce-scatter | Max Time: 6.477 ms | Avg Time: 6.015 ms | Load Imbalance: 1.077' [0m
+					|--[92m 'reduce-scatter-dist | Max Time: 6.380 ms | Avg Time: 5.915 ms | Load Imbalance: 1.079' [0m
+			|--[91m 'GRAD_H = A.T * GRAD_AGG | Max Time: 40.115 ms | Avg Time: 37.308 ms | Load Imbalance: 1.075' [0m
+			|--[91m 'allreduce grad_x | Max Time: 278.233 ms | Avg Time: 272.710 ms | Load Imbalance: 1.020' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.301 ms | Avg Time: 19.272 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 232.379 ms | Avg Time: 229.387 ms | Load Imbalance: 1.013' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.830 ms | Avg Time: 23.449 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'gather | Max Time: 15.206 ms | Avg Time: 12.006 ms | Load Imbalance: 1.267' [0m
+		|--[96m 'sync_norm_gradients | Max Time: 20.271 ms | Avg Time: 16.321 ms | Load Imbalance: 1.242' [0m
+		|--[96m 'sync_data_parallel_gradients | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.204' [0m
+
+|--[95m 'epoch 9 | Max Time: 2066.824 ms | Avg Time: 2066.808 ms | Load Imbalance: 1.000' [0m
+	|--[92m 'minibatch prep | Max Time: 345.164 ms | Avg Time: 320.527 ms | Load Imbalance: 1.077' [0m
+		|--[96m 'sample nodes | Max Time: 80.707 ms | Avg Time: 73.798 ms | Load Imbalance: 1.094' [0m
+		|--[96m 'compact indices | Max Time: 12.852 ms | Avg Time: 12.489 ms | Load Imbalance: 1.029' [0m
+		|--[96m 'compact adj shards | Max Time: 232.511 ms | Avg Time: 217.356 ms | Load Imbalance: 1.070' [0m
+			|--[91m 'compact layout prep | Max Time: 37.417 ms | Avg Time: 35.261 ms | Load Imbalance: 1.061' [0m
+			|--[91m 'compact csr: indices | Max Time: 1.358 ms | Avg Time: 1.306 ms | Load Imbalance: 1.040' [0m
+			|--[91m 'compact csr: row ptrs | Max Time: 11.035 ms | Avg Time: 10.364 ms | Load Imbalance: 1.065' [0m
+			|--[91m 'compact csr: nnz index | Max Time: 40.746 ms | Avg Time: 36.543 ms | Load Imbalance: 1.115' [0m
+			|--[91m 'compact csr: select nnz | Max Time: 12.852 ms | Avg Time: 12.531 ms | Load Imbalance: 1.026' [0m
+			|--[91m 'compact csr: col map | Max Time: 37.174 ms | Avg Time: 36.587 ms | Load Imbalance: 1.016' [0m
+			|--[91m 'compact csr: edge scale | Max Time: 14.869 ms | Avg Time: 13.990 ms | Load Imbalance: 1.063' [0m
+			|--[91m 'compact csr: crow | Max Time: 12.281 ms | Avg Time: 11.695 ms | Load Imbalance: 1.050' [0m
+			|--[91m 'compact csr: adjt direct | Max Time: 32.982 ms | Avg Time: 28.986 ms | Load Imbalance: 1.138' [0m
+		|--[96m 'compact feature slice | Max Time: 14.915 ms | Avg Time: 12.845 ms | Load Imbalance: 1.161' [0m
+		|--[96m 'compact label slice | Max Time: 1.178 ms | Avg Time: 1.140 ms | Load Imbalance: 1.033' [0m
+	|--[92m 'train step | Max Time: 1748.946 ms | Avg Time: 1745.304 ms | Load Imbalance: 1.002' [0m
+		|--[96m 'input_linear | Max Time: 12.157 ms | Avg Time: 10.125 ms | Load Imbalance: 1.201' [0m
+			|--[91m 'input_linear X * W | Max Time: 10.281 ms | Avg Time: 8.431 ms | Load Imbalance: 1.219' [0m
+			|--[91m 'all-reduce | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.202' [0m
+			|--[91m 'OUT + BIAS | Max Time: 1.576 ms | Avg Time: 1.444 ms | Load Imbalance: 1.091' [0m
+		|--[96m 'gcn conv fwd | Max Time: 674.042 ms | Avg Time: 667.969 ms | Load Imbalance: 1.009' [0m
+			|--[91m 'AGG = A * H | Max Time: 40.052 ms | Avg Time: 37.426 ms | Load Imbalance: 1.070' [0m
+			|--[91m 'allreduce H | Max Time: 280.867 ms | Avg Time: 277.973 ms | Load Imbalance: 1.010' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.336 ms | Avg Time: 19.305 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 237.751 ms | Avg Time: 234.617 ms | Load Imbalance: 1.013' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.844 ms | Avg Time: 23.449 ms | Load Imbalance: 1.145' [0m
+			|--[91m 'Allgather W | Max Time: 18.984 ms | Avg Time: 15.313 ms | Load Imbalance: 1.240' [0m
+				|--[95m 'gather | Max Time: 18.789 ms | Avg Time: 15.112 ms | Load Imbalance: 1.243' [0m
+			|--[91m 'OUT = AGG * W | Max Time: 40.308 ms | Avg Time: 35.556 ms | Load Imbalance: 1.134' [0m
+			|--[91m 'allreduce Q | Max Time: 306.903 ms | Avg Time: 300.798 ms | Load Imbalance: 1.020' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.425 ms | Avg Time: 19.387 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 263.694 ms | Avg Time: 257.370 ms | Load Imbalance: 1.025' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.813 ms | Avg Time: 23.437 ms | Load Imbalance: 1.144' [0m
+		|--[96m 'activation | Max Time: 70.548 ms | Avg Time: 67.856 ms | Load Imbalance: 1.040' [0m
+			|--[91m 'all-reduce | Max Time: 23.892 ms | Avg Time: 20.618 ms | Load Imbalance: 1.159' [0m
+		|--[96m 'output_linear | Max Time: 65.915 ms | Avg Time: 63.185 ms | Load Imbalance: 1.043' [0m
+			|--[91m 'output_linear X * W | Max Time: 2.653 ms | Avg Time: 2.450 ms | Load Imbalance: 1.083' [0m
+			|--[91m 'all-reduce | Max Time: 60.297 ms | Avg Time: 57.520 ms | Load Imbalance: 1.048' [0m
+			|--[91m 'OUT + BIAS | Max Time: 3.145 ms | Avg Time: 3.011 ms | Load Imbalance: 1.045' [0m
+		|--[96m 'cross entropy fwd | Max Time: 60.486 ms | Avg Time: 54.041 ms | Load Imbalance: 1.119' [0m
+		|--[96m 'cross entropy bwd | Max Time: 9.181 ms | Avg Time: 8.816 ms | Load Imbalance: 1.041' [0m
+		|--[96m 'linear_3d_bwd | Max Time: 22.254 ms | Avg Time: 19.344 ms | Load Imbalance: 1.150' [0m
+			|--[91m 'output_linear GRAD_X | Max Time: 3.502 ms | Avg Time: 3.084 ms | Load Imbalance: 1.136' [0m
+			|--[91m 'all-reduce | Max Time: 0.300 ms | Avg Time: 0.250 ms | Load Imbalance: 1.199' [0m
+			|--[91m 'output_linear GRAD_W | Max Time: 3.530 ms | Avg Time: 3.154 ms | Load Imbalance: 1.119' [0m
+			|--[91m 'input_linear GRAD_W | Max Time: 10.378 ms | Avg Time: 8.816 ms | Load Imbalance: 1.177' [0m
+		|--[96m 'gcn conv bwd | Max Time: 692.513 ms | Avg Time: 689.171 ms | Load Imbalance: 1.005' [0m
+			|--[91m 'GRAD_AGG = GRAD_OUT * W.T | Max Time: 40.658 ms | Avg Time: 35.603 ms | Load Imbalance: 1.142' [0m
+			|--[91m 'allreduce lowp comm dtype | Max Time: 19.281 ms | Avg Time: 19.235 ms | Load Imbalance: 1.002' [0m
+			|--[91m 'allreduce lowp | Max Time: 243.376 ms | Avg Time: 242.093 ms | Load Imbalance: 1.005' [0m
+			|--[91m 'allreduce copy back | Max Time: 26.837 ms | Avg Time: 23.449 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'GRAD_W = AGG.T * GRAD_OUT | Max Time: 45.385 ms | Avg Time: 37.153 ms | Load Imbalance: 1.222' [0m
+			|--[91m 'ReduceScatter grad_weight | Max Time: 6.791 ms | Avg Time: 6.270 ms | Load Imbalance: 1.083' [0m
+				|--[95m 'reduce-scatter | Max Time: 6.596 ms | Avg Time: 6.070 ms | Load Imbalance: 1.087' [0m
+					|--[92m 'reduce-scatter-dist | Max Time: 6.499 ms | Avg Time: 5.970 ms | Load Imbalance: 1.089' [0m
+			|--[91m 'GRAD_H = A.T * GRAD_AGG | Max Time: 40.103 ms | Avg Time: 37.320 ms | Load Imbalance: 1.075' [0m
+			|--[91m 'allreduce grad_x | Max Time: 280.024 ms | Avg Time: 274.265 ms | Load Imbalance: 1.021' [0m
+				|--[95m 'allreduce lowp comm dtype | Max Time: 19.304 ms | Avg Time: 19.273 ms | Load Imbalance: 1.002' [0m
+				|--[95m 'allreduce lowp | Max Time: 234.180 ms | Avg Time: 230.940 ms | Load Imbalance: 1.014' [0m
+				|--[95m 'allreduce copy back | Max Time: 26.829 ms | Avg Time: 23.449 ms | Load Imbalance: 1.144' [0m
+			|--[91m 'gather | Max Time: 16.023 ms | Avg Time: 12.377 ms | Load Imbalance: 1.295' [0m
+		|--[96m 'sync_norm_gradients | Max Time: 20.572 ms | Avg Time: 16.472 ms | Load Imbalance: 1.249' [0m
+		|--[96m 'sync_data_parallel_gradients | Max Time: 0.060 ms | Avg Time: 0.050 ms | Load Imbalance: 1.202' [0m
+
+Epoch: 009, Train Loss: 3.1526
+rank 0 Peak GPU memory: 19.44 GB

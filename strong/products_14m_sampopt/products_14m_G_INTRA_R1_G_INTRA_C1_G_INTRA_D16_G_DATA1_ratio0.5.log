@@ -1,1 +1,1254 @@
-srun: error: Unable to create step for job 52340521: Job/step already completing or completed
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:412: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /pytorch/aten/src/ATen/Context.cpp:760.)
+  adj_local = torch.sparse_coo_tensor(
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+/pscratch/sd/h/hmuki/plexus/plexus/utils/dataloader.py:425: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  adj_local = adj_local.to_sparse_csr()
+[info] RMSNorm + ReLU + Dropout fused and compiled with torch.compile
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+steps_per_epoch:  3
+[rank14]: Traceback (most recent call last):
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank14]:     loss = train(
+[rank14]:         model,
+[rank14]:     ...<9 lines>...
+[rank14]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank14]:     )
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank14]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank14]:     return self._call_impl(*args, **kwargs)
+[rank14]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank14]:     return forward_call(*args, **kwargs)
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank14]:     x = self.norms[i](x)
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank14]:     return self._call_impl(*args, **kwargs)
+[rank14]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank14]:     return forward_call(*args, **kwargs)
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank14]:     return self._post(
+[rank14]:            ~~~~~~~~~~^
+[rank14]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank14]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank14]:         self._dropout_p, self.training,
+[rank14]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank14]:     )
+[rank14]:     ^
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank14]:     return fn(*args, **kwargs)
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank14]:     def _rmsnorm_post_relu_dropout(
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank14]:     return fn(*args, **kwargs)
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank14]:     return compiled_fn(full_args)
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank14]:     all_outs = call_func_at_runtime_with_args(
+[rank14]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank14]:     )
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank14]:     out = normalize_as_list(f(args))
+[rank14]:                             ~^^^^^^
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank14]:     return f(*args)
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank14]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank14]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank14]:     fw_outs = call_func_at_runtime_with_args(
+[rank14]:         CompiledFunction.compiled_fw,
+[rank14]:     ...<2 lines>...
+[rank14]:         disable_amp=disable_amp,
+[rank14]:     )
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank14]:     out = normalize_as_list(f(args))
+[rank14]:                             ~^^^^^^
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank14]:     return compiled_fn(runtime_args)
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank14]:     outs = compiled_fn(args)
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank14]:     return self.current_callable(inputs)
+[rank14]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank14]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank14]:     out = model(new_inputs)
+[rank14]:   File "/tmp/torchinductor_hmuki/3r/c3rurywaflydvralezg7hnhekyj7mm4tlqadk5u62xjgupffqnw6.py", line 138, in call
+[rank14]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank14]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 2 has a total capacity of 39.49 GiB of which 4.22 GiB is free. Including non-PyTorch memory, this process has 35.27 GiB memory in use. Of the allocated memory 32.14 GiB is allocated by PyTorch, and 1.70 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank0]:     loss = train(
+[rank0]:         model,
+[rank0]:     ...<9 lines>...
+[rank0]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank0]:     )
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank0]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank0]:     x = self.norms[i](x)
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank0]:     return self._post(
+[rank0]:            ~~~~~~~~~~^
+[rank0]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank0]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:         self._dropout_p, self.training,
+[rank0]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:     )
+[rank0]:     ^
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank0]:     return fn(*args, **kwargs)
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank0]:     def _rmsnorm_post_relu_dropout(
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank0]:     return fn(*args, **kwargs)
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank0]:     return compiled_fn(full_args)
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank0]:     all_outs = call_func_at_runtime_with_args(
+[rank0]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank0]:     )
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank0]:     out = normalize_as_list(f(args))
+[rank0]:                             ~^^^^^^
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank0]:     return f(*args)
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank0]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank0]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank0]:     fw_outs = call_func_at_runtime_with_args(
+[rank0]:         CompiledFunction.compiled_fw,
+[rank0]:     ...<2 lines>...
+[rank0]:         disable_amp=disable_amp,
+[rank0]:     )
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank0]:     out = normalize_as_list(f(args))
+[rank0]:                             ~^^^^^^
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank0]:     return compiled_fn(runtime_args)
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank0]:     outs = compiled_fn(args)
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank0]:     return self.current_callable(inputs)
+[rank0]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank0]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank0]:     out = model(new_inputs)
+[rank0]:   File "/tmp/torchinductor_hmuki/yh/cyhlrh6sryzgee2dhfzlpb73fqk3nss5iw2qfsampncnfwzevwau.py", line 138, in call
+[rank0]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank0]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 0 has a total capacity of 39.49 GiB of which 4.22 GiB is free. Including non-PyTorch memory, this process has 35.27 GiB memory in use. Of the allocated memory 32.13 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank4]: Traceback (most recent call last):
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank4]:     loss = train(
+[rank4]:         model,
+[rank4]:     ...<9 lines>...
+[rank4]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank4]:     )
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank4]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank4]:     return self._call_impl(*args, **kwargs)
+[rank4]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank4]:     return forward_call(*args, **kwargs)
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank4]:     x = self.norms[i](x)
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank4]:     return self._call_impl(*args, **kwargs)
+[rank4]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank4]:     return forward_call(*args, **kwargs)
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank4]:     return self._post(
+[rank4]:            ~~~~~~~~~~^
+[rank4]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank4]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank4]:         self._dropout_p, self.training,
+[rank4]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank4]:     )
+[rank4]:     ^
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank4]:     return fn(*args, **kwargs)
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank4]:     def _rmsnorm_post_relu_dropout(
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank4]:     return fn(*args, **kwargs)
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank4]:     return compiled_fn(full_args)
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank4]:     all_outs = call_func_at_runtime_with_args(
+[rank4]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank4]:     )
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank4]:     out = normalize_as_list(f(args))
+[rank4]:                             ~^^^^^^
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank4]:     return f(*args)
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank4]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank4]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank4]:     fw_outs = call_func_at_runtime_with_args(
+[rank4]:         CompiledFunction.compiled_fw,
+[rank4]:     ...<2 lines>...
+[rank4]:         disable_amp=disable_amp,
+[rank4]:     )
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank4]:     out = normalize_as_list(f(args))
+[rank4]:                             ~^^^^^^
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank4]:     return compiled_fn(runtime_args)
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank4]:     outs = compiled_fn(args)
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank4]:     return self.current_callable(inputs)
+[rank4]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank4]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank4]:     out = model(new_inputs)
+[rank4]:   File "/tmp/torchinductor_hmuki/yh/cyhlrh6sryzgee2dhfzlpb73fqk3nss5iw2qfsampncnfwzevwau.py", line 138, in call
+[rank4]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank4]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 0 has a total capacity of 39.49 GiB of which 4.20 GiB is free. Including non-PyTorch memory, this process has 35.29 GiB memory in use. Of the allocated memory 32.14 GiB is allocated by PyTorch, and 1.70 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank9]: Traceback (most recent call last):
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank9]:     loss = train(
+[rank9]:         model,
+[rank9]:     ...<9 lines>...
+[rank9]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank9]:     )
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank9]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank9]:     return self._call_impl(*args, **kwargs)
+[rank9]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank9]:     return forward_call(*args, **kwargs)
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank9]:     x = self.norms[i](x)
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank9]:     return self._call_impl(*args, **kwargs)
+[rank9]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank9]:     return forward_call(*args, **kwargs)
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank9]:     return self._post(
+[rank9]:            ~~~~~~~~~~^
+[rank9]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank9]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank9]:         self._dropout_p, self.training,
+[rank9]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank9]:     )
+[rank9]:     ^
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank9]:     return fn(*args, **kwargs)
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank9]:     def _rmsnorm_post_relu_dropout(
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank9]:     return fn(*args, **kwargs)
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank9]:     return compiled_fn(full_args)
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank9]:     all_outs = call_func_at_runtime_with_args(
+[rank9]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank9]:     )
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank9]:     out = normalize_as_list(f(args))
+[rank9]:                             ~^^^^^^
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank9]:     return f(*args)
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank9]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank9]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank9]:     fw_outs = call_func_at_runtime_with_args(
+[rank9]:         CompiledFunction.compiled_fw,
+[rank9]:     ...<2 lines>...
+[rank9]:         disable_amp=disable_amp,
+[rank9]:     )
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank9]:     out = normalize_as_list(f(args))
+[rank9]:                             ~^^^^^^
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank9]:     return compiled_fn(runtime_args)
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank9]:     outs = compiled_fn(args)
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank9]:     return self.current_callable(inputs)
+[rank9]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank9]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank9]:     out = model(new_inputs)
+[rank9]:   File "/tmp/torchinductor_hmuki/pw/cpwkkswknxi7z54yaiw7lnkpy3t4zclji4nmvya5ll4jn44ky2sg.py", line 138, in call
+[rank9]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank9]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 1 has a total capacity of 39.49 GiB of which 4.20 GiB is free. Including non-PyTorch memory, this process has 35.29 GiB memory in use. Of the allocated memory 32.13 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank2]: Traceback (most recent call last):
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank2]:     loss = train(
+[rank2]:         model,
+[rank2]:     ...<9 lines>...
+[rank2]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank2]:     )
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank2]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank2]:     return self._call_impl(*args, **kwargs)
+[rank2]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank2]:     return forward_call(*args, **kwargs)
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank2]:     x = self.norms[i](x)
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank2]:     return self._call_impl(*args, **kwargs)
+[rank2]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank2]:     return forward_call(*args, **kwargs)
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank2]:     return self._post(
+[rank2]:            ~~~~~~~~~~^
+[rank2]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank2]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:         self._dropout_p, self.training,
+[rank2]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank2]:     )
+[rank2]:     ^
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank2]:     return fn(*args, **kwargs)
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank2]:     def _rmsnorm_post_relu_dropout(
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank2]:     return fn(*args, **kwargs)
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank2]:     return compiled_fn(full_args)
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank2]:     all_outs = call_func_at_runtime_with_args(
+[rank2]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank2]:     )
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank2]:     out = normalize_as_list(f(args))
+[rank2]:                             ~^^^^^^
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank2]:     return f(*args)
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank2]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank2]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank2]:     fw_outs = call_func_at_runtime_with_args(
+[rank2]:         CompiledFunction.compiled_fw,
+[rank2]:     ...<2 lines>...
+[rank2]:         disable_amp=disable_amp,
+[rank2]:     )
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank2]:     out = normalize_as_list(f(args))
+[rank2]:                             ~^^^^^^
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank2]:     return compiled_fn(runtime_args)
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank2]:     outs = compiled_fn(args)
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank2]:     return self.current_callable(inputs)
+[rank2]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank2]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank2]:     out = model(new_inputs)
+[rank2]:   File "/tmp/torchinductor_hmuki/3r/c3rurywaflydvralezg7hnhekyj7mm4tlqadk5u62xjgupffqnw6.py", line 138, in call
+[rank2]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank2]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 2 has a total capacity of 39.49 GiB of which 4.22 GiB is free. Including non-PyTorch memory, this process has 35.27 GiB memory in use. Of the allocated memory 32.13 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank12]: Traceback (most recent call last):
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank12]:     loss = train(
+[rank12]:         model,
+[rank12]:     ...<9 lines>...
+[rank12]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank12]:     )
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank12]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank12]:     return self._call_impl(*args, **kwargs)
+[rank12]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank12]:     return forward_call(*args, **kwargs)
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank12]:     x = self.norms[i](x)
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank12]:     return self._call_impl(*args, **kwargs)
+[rank12]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank12]:     return forward_call(*args, **kwargs)
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank12]:     return self._post(
+[rank12]:            ~~~~~~~~~~^
+[rank12]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank12]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank12]:         self._dropout_p, self.training,
+[rank12]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank12]:     )
+[rank12]:     ^
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank12]:     return fn(*args, **kwargs)
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank12]:     def _rmsnorm_post_relu_dropout(
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank12]:     return fn(*args, **kwargs)
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank12]:     return compiled_fn(full_args)
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank12]:     all_outs = call_func_at_runtime_with_args(
+[rank12]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank12]:     )
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank12]:     out = normalize_as_list(f(args))
+[rank12]:                             ~^^^^^^
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank12]:     return f(*args)
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank12]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank12]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank12]:     fw_outs = call_func_at_runtime_with_args(
+[rank12]:         CompiledFunction.compiled_fw,
+[rank12]:     ...<2 lines>...
+[rank12]:         disable_amp=disable_amp,
+[rank12]:     )
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank12]:     out = normalize_as_list(f(args))
+[rank12]:                             ~^^^^^^
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank12]:     return compiled_fn(runtime_args)
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank12]:     outs = compiled_fn(args)
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank12]:     return self.current_callable(inputs)
+[rank12]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank12]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank12]:     out = model(new_inputs)
+[rank12]:   File "/tmp/torchinductor_hmuki/yh/cyhlrh6sryzgee2dhfzlpb73fqk3nss5iw2qfsampncnfwzevwau.py", line 138, in call
+[rank12]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank12]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 0 has a total capacity of 39.49 GiB of which 4.22 GiB is free. Including non-PyTorch memory, this process has 35.27 GiB memory in use. Of the allocated memory 32.13 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank13]: Traceback (most recent call last):
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank13]:     loss = train(
+[rank13]:         model,
+[rank13]:     ...<9 lines>...
+[rank13]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank13]:     )
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank13]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank13]:     return self._call_impl(*args, **kwargs)
+[rank13]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank13]:     return forward_call(*args, **kwargs)
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank13]:     x = self.norms[i](x)
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank13]:     return self._call_impl(*args, **kwargs)
+[rank13]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank13]:     return forward_call(*args, **kwargs)
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank13]:     return self._post(
+[rank13]:            ~~~~~~~~~~^
+[rank13]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank13]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank13]:         self._dropout_p, self.training,
+[rank13]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank13]:     )
+[rank13]:     ^
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank13]:     return fn(*args, **kwargs)
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank13]:     def _rmsnorm_post_relu_dropout(
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank13]:     return fn(*args, **kwargs)
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank13]:     return compiled_fn(full_args)
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank13]:     all_outs = call_func_at_runtime_with_args(
+[rank13]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank13]:     )
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank13]:     out = normalize_as_list(f(args))
+[rank13]:                             ~^^^^^^
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank13]:     return f(*args)
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank13]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank13]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank13]:     fw_outs = call_func_at_runtime_with_args(
+[rank13]:         CompiledFunction.compiled_fw,
+[rank13]:     ...<2 lines>...
+[rank13]:         disable_amp=disable_amp,
+[rank13]:     )
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank13]:     out = normalize_as_list(f(args))
+[rank13]:                             ~^^^^^^
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank13]:     return compiled_fn(runtime_args)
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank13]:     outs = compiled_fn(args)
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank13]:     return self.current_callable(inputs)
+[rank13]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank13]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank13]:     out = model(new_inputs)
+[rank13]:   File "/tmp/torchinductor_hmuki/pw/cpwkkswknxi7z54yaiw7lnkpy3t4zclji4nmvya5ll4jn44ky2sg.py", line 138, in call
+[rank13]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank13]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 1 has a total capacity of 39.49 GiB of which 4.22 GiB is free. Including non-PyTorch memory, this process has 35.27 GiB memory in use. Of the allocated memory 32.14 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank15]: Traceback (most recent call last):
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank15]:     loss = train(
+[rank15]:         model,
+[rank15]:     ...<9 lines>...
+[rank15]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank15]:     )
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank15]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank15]:     return self._call_impl(*args, **kwargs)
+[rank15]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank15]:     return forward_call(*args, **kwargs)
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank15]:     x = self.norms[i](x)
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank15]:     return self._call_impl(*args, **kwargs)
+[rank15]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank15]:     return forward_call(*args, **kwargs)
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank15]:     return self._post(
+[rank15]:            ~~~~~~~~~~^
+[rank15]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank15]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank15]:         self._dropout_p, self.training,
+[rank15]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank15]:     )
+[rank15]:     ^
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank15]:     return fn(*args, **kwargs)
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank15]:     def _rmsnorm_post_relu_dropout(
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank15]:     return fn(*args, **kwargs)
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank15]:     return compiled_fn(full_args)
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank15]:     all_outs = call_func_at_runtime_with_args(
+[rank15]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank15]:     )
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank15]:     out = normalize_as_list(f(args))
+[rank15]:                             ~^^^^^^
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank15]:     return f(*args)
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank15]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank15]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank15]:     fw_outs = call_func_at_runtime_with_args(
+[rank15]:         CompiledFunction.compiled_fw,
+[rank15]:     ...<2 lines>...
+[rank15]:         disable_amp=disable_amp,
+[rank15]:     )
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank15]:     out = normalize_as_list(f(args))
+[rank15]:                             ~^^^^^^
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank15]:     return compiled_fn(runtime_args)
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank15]:     outs = compiled_fn(args)
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank15]:     return self.current_callable(inputs)
+[rank15]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank15]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank15]:     out = model(new_inputs)
+[rank15]:   File "/tmp/torchinductor_hmuki/4z/c4zsfj36ptqywdmn4egga7zkqykvdctig4n3ga56rwewdcqbhxvf.py", line 138, in call
+[rank15]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank15]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 3 has a total capacity of 39.49 GiB of which 4.22 GiB is free. Including non-PyTorch memory, this process has 35.27 GiB memory in use. Of the allocated memory 32.14 GiB is allocated by PyTorch, and 1.70 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank3]: Traceback (most recent call last):
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank3]:     loss = train(
+[rank3]:         model,
+[rank3]:     ...<9 lines>...
+[rank3]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank3]:     )
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank3]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank3]:     return self._call_impl(*args, **kwargs)
+[rank3]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank3]:     return forward_call(*args, **kwargs)
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank3]:     x = self.norms[i](x)
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank3]:     return self._call_impl(*args, **kwargs)
+[rank3]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank3]:     return forward_call(*args, **kwargs)
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank3]:     return self._post(
+[rank3]:            ~~~~~~~~~~^
+[rank3]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank3]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:         self._dropout_p, self.training,
+[rank3]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank3]:     )
+[rank3]:     ^
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank3]:     return fn(*args, **kwargs)
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank3]:     def _rmsnorm_post_relu_dropout(
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank3]:     return fn(*args, **kwargs)
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank3]:     return compiled_fn(full_args)
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank3]:     all_outs = call_func_at_runtime_with_args(
+[rank3]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank3]:     )
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank3]:     out = normalize_as_list(f(args))
+[rank3]:                             ~^^^^^^
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank3]:     return f(*args)
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank3]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank3]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank3]:     fw_outs = call_func_at_runtime_with_args(
+[rank3]:         CompiledFunction.compiled_fw,
+[rank3]:     ...<2 lines>...
+[rank3]:         disable_amp=disable_amp,
+[rank3]:     )
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank3]:     out = normalize_as_list(f(args))
+[rank3]:                             ~^^^^^^
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank3]:     return compiled_fn(runtime_args)
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank3]:     outs = compiled_fn(args)
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank3]:     return self.current_callable(inputs)
+[rank3]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank3]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank3]:     out = model(new_inputs)
+[rank3]:   File "/tmp/torchinductor_hmuki/4z/c4zsfj36ptqywdmn4egga7zkqykvdctig4n3ga56rwewdcqbhxvf.py", line 138, in call
+[rank3]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank3]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 3 has a total capacity of 39.49 GiB of which 4.22 GiB is free. Including non-PyTorch memory, this process has 35.27 GiB memory in use. Of the allocated memory 32.14 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank1]: Traceback (most recent call last):
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank1]:     loss = train(
+[rank1]:         model,
+[rank1]:     ...<9 lines>...
+[rank1]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank1]:     )
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank1]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank1]:     return self._call_impl(*args, **kwargs)
+[rank1]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank1]:     return forward_call(*args, **kwargs)
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank1]:     x = self.norms[i](x)
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank1]:     return self._call_impl(*args, **kwargs)
+[rank1]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank1]:     return forward_call(*args, **kwargs)
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank1]:     return self._post(
+[rank1]:            ~~~~~~~~~~^
+[rank1]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank1]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:         self._dropout_p, self.training,
+[rank1]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank1]:     )
+[rank1]:     ^
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank1]:     return fn(*args, **kwargs)
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank1]:     def _rmsnorm_post_relu_dropout(
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank1]:     return fn(*args, **kwargs)
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank1]:     return compiled_fn(full_args)
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank1]:     all_outs = call_func_at_runtime_with_args(
+[rank1]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank1]:     )
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank1]:     out = normalize_as_list(f(args))
+[rank1]:                             ~^^^^^^
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank1]:     return f(*args)
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank1]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank1]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank1]:     fw_outs = call_func_at_runtime_with_args(
+[rank1]:         CompiledFunction.compiled_fw,
+[rank1]:     ...<2 lines>...
+[rank1]:         disable_amp=disable_amp,
+[rank1]:     )
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank1]:     out = normalize_as_list(f(args))
+[rank1]:                             ~^^^^^^
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank1]:     return compiled_fn(runtime_args)
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank1]:     outs = compiled_fn(args)
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank1]:     return self.current_callable(inputs)
+[rank1]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank1]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank1]:     out = model(new_inputs)
+[rank1]:   File "/tmp/torchinductor_hmuki/pw/cpwkkswknxi7z54yaiw7lnkpy3t4zclji4nmvya5ll4jn44ky2sg.py", line 138, in call
+[rank1]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank1]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 1 has a total capacity of 39.49 GiB of which 4.22 GiB is free. Including non-PyTorch memory, this process has 35.27 GiB memory in use. Of the allocated memory 32.14 GiB is allocated by PyTorch, and 1.70 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank11]: Traceback (most recent call last):
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank11]:     loss = train(
+[rank11]:         model,
+[rank11]:     ...<9 lines>...
+[rank11]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank11]:     )
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank11]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank11]:     return self._call_impl(*args, **kwargs)
+[rank11]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank11]:     return forward_call(*args, **kwargs)
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank11]:     x = self.norms[i](x)
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank11]:     return self._call_impl(*args, **kwargs)
+[rank11]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank11]:     return forward_call(*args, **kwargs)
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank11]:     return self._post(
+[rank11]:            ~~~~~~~~~~^
+[rank11]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank11]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank11]:         self._dropout_p, self.training,
+[rank11]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank11]:     )
+[rank11]:     ^
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank11]:     return fn(*args, **kwargs)
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank11]:     def _rmsnorm_post_relu_dropout(
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank11]:     return fn(*args, **kwargs)
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank11]:     return compiled_fn(full_args)
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank11]:     all_outs = call_func_at_runtime_with_args(
+[rank11]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank11]:     )
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank11]:     out = normalize_as_list(f(args))
+[rank11]:                             ~^^^^^^
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank11]:     return f(*args)
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank11]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank11]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank11]:     fw_outs = call_func_at_runtime_with_args(
+[rank11]:         CompiledFunction.compiled_fw,
+[rank11]:     ...<2 lines>...
+[rank11]:         disable_amp=disable_amp,
+[rank11]:     )
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank11]:     out = normalize_as_list(f(args))
+[rank11]:                             ~^^^^^^
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank11]:     return compiled_fn(runtime_args)
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank11]:     outs = compiled_fn(args)
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank11]:     return self.current_callable(inputs)
+[rank11]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank11]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank11]:     out = model(new_inputs)
+[rank11]:   File "/tmp/torchinductor_hmuki/4z/c4zsfj36ptqywdmn4egga7zkqykvdctig4n3ga56rwewdcqbhxvf.py", line 138, in call
+[rank11]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank11]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 3 has a total capacity of 39.49 GiB of which 4.20 GiB is free. Including non-PyTorch memory, this process has 35.29 GiB memory in use. Of the allocated memory 32.14 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank10]: Traceback (most recent call last):
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank10]:     loss = train(
+[rank10]:         model,
+[rank10]:     ...<9 lines>...
+[rank10]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank10]:     )
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank10]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank10]:     return self._call_impl(*args, **kwargs)
+[rank10]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank10]:     return forward_call(*args, **kwargs)
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank10]:     x = self.norms[i](x)
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank10]:     return self._call_impl(*args, **kwargs)
+[rank10]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank10]:     return forward_call(*args, **kwargs)
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank10]:     return self._post(
+[rank10]:            ~~~~~~~~~~^
+[rank10]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank10]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank10]:         self._dropout_p, self.training,
+[rank10]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank10]:     )
+[rank10]:     ^
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank10]:     return fn(*args, **kwargs)
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank10]:     def _rmsnorm_post_relu_dropout(
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank10]:     return fn(*args, **kwargs)
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank10]:     return compiled_fn(full_args)
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank10]:     all_outs = call_func_at_runtime_with_args(
+[rank10]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank10]:     )
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank10]:     out = normalize_as_list(f(args))
+[rank10]:                             ~^^^^^^
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank10]:     return f(*args)
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank10]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank10]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank10]:     fw_outs = call_func_at_runtime_with_args(
+[rank10]:         CompiledFunction.compiled_fw,
+[rank10]:     ...<2 lines>...
+[rank10]:         disable_amp=disable_amp,
+[rank10]:     )
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank10]:     out = normalize_as_list(f(args))
+[rank10]:                             ~^^^^^^
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank10]:     return compiled_fn(runtime_args)
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank10]:     outs = compiled_fn(args)
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank10]:     return self.current_callable(inputs)
+[rank10]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank10]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank10]:     out = model(new_inputs)
+[rank10]:   File "/tmp/torchinductor_hmuki/3r/c3rurywaflydvralezg7hnhekyj7mm4tlqadk5u62xjgupffqnw6.py", line 138, in call
+[rank10]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank10]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 2 has a total capacity of 39.49 GiB of which 4.20 GiB is free. Including non-PyTorch memory, this process has 35.29 GiB memory in use. Of the allocated memory 32.14 GiB is allocated by PyTorch, and 1.70 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank8]: Traceback (most recent call last):
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank8]:     loss = train(
+[rank8]:         model,
+[rank8]:     ...<9 lines>...
+[rank8]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank8]:     )
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank8]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank8]:     return self._call_impl(*args, **kwargs)
+[rank8]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank8]:     return forward_call(*args, **kwargs)
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank8]:     x = self.norms[i](x)
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank8]:     return self._call_impl(*args, **kwargs)
+[rank8]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank8]:     return forward_call(*args, **kwargs)
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank8]:     return self._post(
+[rank8]:            ~~~~~~~~~~^
+[rank8]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank8]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank8]:         self._dropout_p, self.training,
+[rank8]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank8]:     )
+[rank8]:     ^
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank8]:     return fn(*args, **kwargs)
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank8]:     def _rmsnorm_post_relu_dropout(
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank8]:     return fn(*args, **kwargs)
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank8]:     return compiled_fn(full_args)
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank8]:     all_outs = call_func_at_runtime_with_args(
+[rank8]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank8]:     )
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank8]:     out = normalize_as_list(f(args))
+[rank8]:                             ~^^^^^^
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank8]:     return f(*args)
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank8]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank8]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank8]:     fw_outs = call_func_at_runtime_with_args(
+[rank8]:         CompiledFunction.compiled_fw,
+[rank8]:     ...<2 lines>...
+[rank8]:         disable_amp=disable_amp,
+[rank8]:     )
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank8]:     out = normalize_as_list(f(args))
+[rank8]:                             ~^^^^^^
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank8]:     return compiled_fn(runtime_args)
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank8]:     outs = compiled_fn(args)
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank8]:     return self.current_callable(inputs)
+[rank8]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank8]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank8]:     out = model(new_inputs)
+[rank8]:   File "/tmp/torchinductor_hmuki/yh/cyhlrh6sryzgee2dhfzlpb73fqk3nss5iw2qfsampncnfwzevwau.py", line 138, in call
+[rank8]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank8]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 0 has a total capacity of 39.49 GiB of which 4.20 GiB is free. Including non-PyTorch memory, this process has 35.29 GiB memory in use. Of the allocated memory 32.14 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank6]: Traceback (most recent call last):
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank6]:     loss = train(
+[rank6]:         model,
+[rank6]:     ...<9 lines>...
+[rank6]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank6]:     )
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank6]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank6]:     return self._call_impl(*args, **kwargs)
+[rank6]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank6]:     return forward_call(*args, **kwargs)
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank6]:     x = self.norms[i](x)
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank6]:     return self._call_impl(*args, **kwargs)
+[rank6]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank6]:     return forward_call(*args, **kwargs)
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank6]:     return self._post(
+[rank6]:            ~~~~~~~~~~^
+[rank6]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank6]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank6]:         self._dropout_p, self.training,
+[rank6]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank6]:     )
+[rank6]:     ^
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank6]:     return fn(*args, **kwargs)
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank6]:     def _rmsnorm_post_relu_dropout(
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank6]:     return fn(*args, **kwargs)
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank6]:     return compiled_fn(full_args)
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank6]:     all_outs = call_func_at_runtime_with_args(
+[rank6]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank6]:     )
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank6]:     out = normalize_as_list(f(args))
+[rank6]:                             ~^^^^^^
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank6]:     return f(*args)
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank6]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank6]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank6]:     fw_outs = call_func_at_runtime_with_args(
+[rank6]:         CompiledFunction.compiled_fw,
+[rank6]:     ...<2 lines>...
+[rank6]:         disable_amp=disable_amp,
+[rank6]:     )
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank6]:     out = normalize_as_list(f(args))
+[rank6]:                             ~^^^^^^
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank6]:     return compiled_fn(runtime_args)
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank6]:     outs = compiled_fn(args)
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank6]:     return self.current_callable(inputs)
+[rank6]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank6]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank6]:     out = model(new_inputs)
+[rank6]:   File "/tmp/torchinductor_hmuki/3r/c3rurywaflydvralezg7hnhekyj7mm4tlqadk5u62xjgupffqnw6.py", line 138, in call
+[rank6]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank6]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 2 has a total capacity of 39.49 GiB of which 4.20 GiB is free. Including non-PyTorch memory, this process has 35.29 GiB memory in use. Of the allocated memory 32.13 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank5]: Traceback (most recent call last):
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank5]:     loss = train(
+[rank5]:         model,
+[rank5]:     ...<9 lines>...
+[rank5]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank5]:     )
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank5]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank5]:     return self._call_impl(*args, **kwargs)
+[rank5]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank5]:     return forward_call(*args, **kwargs)
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank5]:     x = self.norms[i](x)
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank5]:     return self._call_impl(*args, **kwargs)
+[rank5]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank5]:     return forward_call(*args, **kwargs)
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank5]:     return self._post(
+[rank5]:            ~~~~~~~~~~^
+[rank5]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank5]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank5]:         self._dropout_p, self.training,
+[rank5]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank5]:     )
+[rank5]:     ^
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank5]:     return fn(*args, **kwargs)
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank5]:     def _rmsnorm_post_relu_dropout(
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank5]:     return fn(*args, **kwargs)
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank5]:     return compiled_fn(full_args)
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank5]:     all_outs = call_func_at_runtime_with_args(
+[rank5]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank5]:     )
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank5]:     out = normalize_as_list(f(args))
+[rank5]:                             ~^^^^^^
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank5]:     return f(*args)
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank5]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank5]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank5]:     fw_outs = call_func_at_runtime_with_args(
+[rank5]:         CompiledFunction.compiled_fw,
+[rank5]:     ...<2 lines>...
+[rank5]:         disable_amp=disable_amp,
+[rank5]:     )
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank5]:     out = normalize_as_list(f(args))
+[rank5]:                             ~^^^^^^
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank5]:     return compiled_fn(runtime_args)
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank5]:     outs = compiled_fn(args)
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank5]:     return self.current_callable(inputs)
+[rank5]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank5]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank5]:     out = model(new_inputs)
+[rank5]:   File "/tmp/torchinductor_hmuki/pw/cpwkkswknxi7z54yaiw7lnkpy3t4zclji4nmvya5ll4jn44ky2sg.py", line 138, in call
+[rank5]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank5]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 1 has a total capacity of 39.49 GiB of which 4.20 GiB is free. Including non-PyTorch memory, this process has 35.29 GiB memory in use. Of the allocated memory 32.13 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank7]: Traceback (most recent call last):
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 1424, in <module>
+[rank7]:     loss = train(
+[rank7]:         model,
+[rank7]:     ...<9 lines>...
+[rank7]:         vectorize_dp_grad=args.vectorize_dp_grad,
+[rank7]:     )
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 430, in train
+[rank7]:     output = model(features_local, adj_shards, layout_metadata=layout_metadata)
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank7]:     return self._call_impl(*args, **kwargs)
+[rank7]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank7]:     return forward_call(*args, **kwargs)
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus/examples/train_mini.py", line 351, in forward
+[rank7]:     x = self.norms[i](x)
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1779, in _wrapped_call_impl
+[rank7]:     return self._call_impl(*args, **kwargs)
+[rank7]:            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1790, in _call_impl
+[rank7]:     return forward_call(*args, **kwargs)
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 133, in forward
+[rank7]:     return self._post(
+[rank7]:            ~~~~~~~~~~^
+[rank7]:         x_float, norm, self.weight, self.eps, x.dtype,
+[rank7]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank7]:         self._dropout_p, self.training,
+[rank7]:         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank7]:     )
+[rank7]:     ^
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1024, in compile_wrapper
+[rank7]:     return fn(*args, **kwargs)
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus/plexus/norm.py", line 25, in _rmsnorm_post_relu_dropout
+[rank7]:     def _rmsnorm_post_relu_dropout(
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_dynamo/eval_frame.py", line 1263, in _fn
+[rank7]:     return fn(*args, **kwargs)
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/aot_autograd.py", line 1200, in forward
+[rank7]:     return compiled_fn(full_args)
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 566, in runtime_wrapper
+[rank7]:     all_outs = call_func_at_runtime_with_args(
+[rank7]:         compiled_fn, args_, disable_amp=disable_amp, steal_args=True
+[rank7]:     )
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank7]:     out = normalize_as_list(f(args))
+[rank7]:                             ~^^^^^^
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 105, in g
+[rank7]:     return f(*args)
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/autograd/function.py", line 596, in apply
+[rank7]:     return super().apply(*args, **kwargs)  # type: ignore[misc]
+[rank7]:            ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 2503, in forward
+[rank7]:     fw_outs = call_func_at_runtime_with_args(
+[rank7]:         CompiledFunction.compiled_fw,
+[rank7]:     ...<2 lines>...
+[rank7]:         disable_amp=disable_amp,
+[rank7]:     )
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/utils.py", line 138, in call_func_at_runtime_with_args
+[rank7]:     out = normalize_as_list(f(args))
+[rank7]:                             ~^^^^^^
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 783, in wrapper
+[rank7]:     return compiled_fn(runtime_args)
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_functorch/_aot_autograd/runtime_wrappers.py", line 1011, in inner_fn
+[rank7]:     outs = compiled_fn(args)
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/output_code.py", line 656, in __call__
+[rank7]:     return self.current_callable(inputs)
+[rank7]:            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+[rank7]:   File "/pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/_inductor/utils.py", line 3401, in run
+[rank7]:     out = model(new_inputs)
+[rank7]:   File "/tmp/torchinductor_hmuki/4z/c4zsfj36ptqywdmn4egga7zkqykvdctig4n3ga56rwewdcqbhxvf.py", line 138, in call
+[rank7]:     buf3 = empty_strided_cuda((7124819, 256), (256, 1), torch.float32)
+[rank7]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 6.79 GiB. GPU 3 has a total capacity of 39.49 GiB of which 4.20 GiB is free. Including non-PyTorch memory, this process has 35.29 GiB memory in use. Of the allocated memory 32.14 GiB is allocated by PyTorch, and 1.71 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+[rank12]:[W502 14:49:31.996265375 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank3]:[W502 14:49:31.868372254 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank1]:[W502 14:49:31.868693427 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank4]:[W502 14:49:31.142265566 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank13]:[W502 14:49:31.027819949 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank14]:[W502 14:49:31.034685404 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank15]:[W502 14:49:31.040523923 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank2]:[W502 14:49:31.906687932 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank7]:[W502 14:49:31.216744851 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank0]:[W502 14:49:31.970604312 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank5]:[W502 14:49:31.501168859 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank10]:[W502 14:49:31.300773303 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank11]:[W502 14:49:31.364715152 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank8]:[W502 14:49:31.378380341 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank9]:[W502 14:49:31.387412232 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+[rank6]:[W502 14:49:32.945190291 ProcessGroupNCCL.cpp:1575] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+srun: error: nid001224: task 12: Exited with exit code 1
+srun: Terminating StepId=52370016.3
+[rank9]:[W502 14:49:32.874570755 TCPStore.cpp:125] [c10d] recvValue failed on SocketImpl(fd=28, addr=[nid001221-hsn0]:38112, remote=[nid001217-hsn0]:29500): Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+Exception raised from recvBytes at /pytorch/torch/csrc/distributed/c10d/Utils.hpp:682 (most recent call first):
+frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0x9d (0x7f539977305d in /pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/lib/libc10.so)
+frame #1: <unknown function> + 0x6a914bd (0x7f53032aa4bd in /pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/lib/libtorch_cpu.so)
+frame #2: c10d::TCPStore::check(std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&) + 0x273 (0x7f53032a8413 in /pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/lib/libtorch_cpu.so)
+frame #3: c10d::ProcessGroupNCCL::HeartbeatMonitor::runLoop() + 0x4a5 (0x7f52e5a948c5 in /pscratch/sd/h/hmuki/plexus-env/lib/python3.13/site-packages/torch/lib/libtorch_cuda.so)
+frame #4: <unknown function> + 0xe8964 (0x7f5369e94964 in /usr/lib64/libstdc++.so.6)
+frame #5: <unknown function> + 0xa6f6c (0x7f539a898f6c in /lib64/libc.so.6)
+frame #6: <unknown function> + 0x12e388 (0x7f539a920388 in /lib64/libc.so.6)
+
+[rank9]:[W502 14:49:32.877527143 ProcessGroupNCCL.cpp:1826] [PG ID 0 PG GUID 0(default_pg) Rank 9] Failed to check the "should dump" flag on TCPStore, (maybe TCPStore server has shut down too early), with error: Failed to recv, got 0 bytes. Connection was likely closed. Did the remote server shutdown or crash?
+srun: error: nid001217: tasks 1-3: Exited with exit code 1
+srun: error: nid001220: tasks 4,7: Exited with exit code 1
+srun: error: nid001221: tasks 8,11: Exited with exit code 1
+[2026-05-02T21:49:34.504] error: *** STEP 52370016.3 ON nid001217 CANCELLED AT 2026-05-02T21:49:34 DUE TO TASK FAILURE ***
+srun: error: nid001217: task 0: Exited with exit code 1
+srun: error: nid001220: tasks 5-6: Exited with exit code 1
+srun: error: nid001221: tasks 9-10: Exited with exit code 1
+srun: error: nid001224: tasks 13-15: Exited with exit code 1

@@ -1,1 +1,10 @@
-srun: error: Unable to create step for job 52340521: Job/step already completing or completed
+[2026-05-03T00:01:04.503] error: *** STEP 52370016.13 ON nid001217 CANCELLED AT 2026-05-03T00:01:04 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: nid001217: tasks 0,2-3: Terminated
+srun: Terminating StepId=52370016.13
+srun: error: nid001221: tasks 8-10: Terminated
+srun: error: nid001220: tasks 4,6-7: Terminated
+srun: error: nid001224: tasks 12-15: Terminated
+srun: error: nid001217: task 1: Terminated
+srun: error: nid001221: task 11: Terminated
+srun: error: nid001220: task 5: Terminated
